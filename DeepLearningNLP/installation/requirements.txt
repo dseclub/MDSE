@@ -1,0 +1,22 @@
+# Library dependencies for the python code.
+#  You need to install them first with  pip install -r requirements.txt .
+
+
+pandas
+requests
+numpy
+scipy
+scikit-learn
+lightgbm
+tensorflow
+tensorboard
+keras
+h5py
+matplotlib
+nltk
+gensim
+stop_words
+tqdm
+cython
+spacy
+

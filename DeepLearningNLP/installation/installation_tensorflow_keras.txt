@@ -1,0 +1,72 @@
+## How To Install TensorFlow and Keras (CPU only) on Ubuntu 16.04, Python 3.6+
+
+## Mac users should do similar to Ubuntu installation.
+
+## Windows users can try the below conda approach.
+
+## You can install TensorFlow in different ways:
+
+# Python and Virtualenv or Conda: In this approach, you install TensorFlow and Keras and all of the packages in a Python virtual environment or conda environment.
+
+# Conda - Ubuntu 16.04 P3.6 +
+
+sudo apt-get update
+
+conda create -n tf-keras-conda-p36 --copy python=3.6
+source activate tf-keras-conda-p36        source deactivate     atom ~/.keras/keras.json
+
+conda install jupyter
+
+conda install scipy
+pip install sklearn
+pip install pandas
+
+pip install tensorflow
+pip install keras
+
+pip install --upgrade tensorflow
+pip install --upgrade keras
+
+## you can include the above and install with requirements.txt
+pip install -r requirements.txt
+
+
+# validate
+python3
+import tensorflow as tf
+hello = tf.constant('Hello, TensorFlow!')
+sess = tf.Session()
+
+python3
+import Keras
+
+
+# Virtualenv  Ubuntu 16.04 P3.6 +
+
+sudo apt-get update
+
+sudo pip install virtualenv
+virtualenv tf-keras-venv3
+
+
+# sudo apt-get install python3-numpy build-essential python-pip python3-pip python-virtualenv swig python-wheel libcurl3-dev
+# virtualenv --system-site-packages -p python3 ~/tf-keras-venv3
+
+# Activate env
+source ~/tf-keras-venv3/bin/activate
+#    (tf-keras-venv3)$
+
+pip install -r requirements.txt
+
+
+# finish with virtualenv
+source deactivate
+
+
+Relevant links:
+
+https://www.tensorflow.org/install/install_linux
+https://keras.io/
+https://github.com/keras-team/keras
+
+http://sourabhbajaj.com/mac-setup/Python/virtualenv.html

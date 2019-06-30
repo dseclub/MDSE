@@ -1,0 +1,29 @@
+﻿#Git Bash (for Windows should be opened)    if not start Git Bash cd Desktop/GetWD and git init
+
+cd Desktop      # change working directory to Desktop
+mkdir GitWD     # create new folder
+
+cd GitWD          # change working directory to GitWD
+
+git clone Url   # change URL   take it from  Clone or Download button  and copy https://github.com/YourRepositoryPath ## 
+
+cd yourRepository  # change yourRepository to repository name from GitHub
+
+ls  # check what files in your repository (folder)
+
+# Open README.md in notepad and update it.
+
+# You do not need to initialize repo **git init** if you just cloned the repo to your computer and Git Bash is working. 
+If you closed Git Bash you will need to cd toYourRepository and git init 
+
+git status
+
+git add . 
+
+git commit -m "updated README"
+
+git push origin master
+
+# refresh your GitHub page
+
+

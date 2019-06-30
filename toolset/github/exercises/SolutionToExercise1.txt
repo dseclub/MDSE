@@ -1,0 +1,11 @@
+﻿Navigate to you GitHub account > Repositories  >  and click New.
+
+Public will be used as a default. 
+Add description.
+Click on Initialize this repository with a README
+
+# Optional you can add licence for example MIT License  for more info https://choosealicense.com/
+
+Click Create repository
+
+

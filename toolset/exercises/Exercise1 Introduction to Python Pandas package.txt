@@ -1,0 +1,10 @@
+Today's plan to explore MovieLens ml-100k datasets and if we have time to start Kaggle Titanic datasets.
+
+Condition: The datasets are in data directory (folder).
+
+1 Make sure that you installed and ready: Python, Pandas and IDE(Jupyter Notebook recommended).
+2 Import datesets MovieLens ml-100k (this is from Greg Reda tutorial Intro to pandas data structures) to you python environment.
+3 Explore and analyse data, follow the the above tutorial (MovieLens ml-100k).
+4 Start exploring and data wrangling Titanic datasets. 
+
+ 

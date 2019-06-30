@@ -1,0 +1,44 @@
+﻿# close and start Git Bash 
+
+cd Desktop/GitWD/yourRepository      # for example  cd Desktop/GitWD/Introduction-to-Git-and-GitHub
+ls  # check what files in the repository (folder)
+
+git init
+
+# Open README.md in notepad and update it.
+
+# create new files
+touch exercise3.txt
+touch exercise4.md
+
+# open the files and type something and save.
+
+mkdir exercises  #create a folder in you repository
+
+# rename the file without changing its location
+mv exercise3.txt exercise5.txt
+
+#  move file in to exercises folder (the exercises folder should be created)
+mv exercise5.txt exercises 
+
+rm exercise4.md # removes (deletes) a file permanently
+
+## Optional ##
+# if you need to remove folder
+mkdir test6
+
+rm -ir test6 removes a folder and all of it contents
+# type yes
+
+##
+
+git status
+git add . 
+git commit -m "updated or added something"
+git push origin master
+   
+
+ 
+
+
+
