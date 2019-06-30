@@ -10,7 +10,7 @@
 
 ## Kubernetes
 
-https://github.com/kubernetes/kubernetes
+[Kubernetes Glossary](https://kubernetes.io/docs/reference/glossary/?fundamental=true)
 
 [Introduction to Kubernetes ](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
 
