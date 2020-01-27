@@ -58,6 +58,8 @@
 [Atom](https://atom.io/)
 
 ##  Vim
+[An introduction to Vim Editor (ITTCL second ed.)](https://tessarinseve.pythonanywhere.com/pelican/vim-ittcl-chapter.html)
+
 [VIM](https://www.vim.org/)
 
 ##  RStudio
