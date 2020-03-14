@@ -62,7 +62,7 @@ According to a recent Stack Overflow's survey, [VIM](https://www.vim.org/) text 
 The reasons for this longevity are many, it's free software with a permissive GNU-like license (VIM License), fast, cross-platform and terminal-based.
 
 The distinctive feature compared with other popular editors is its incredibly efficient multimodal editing style that depends entirely on keyboard commands.
-It's considered to be rather difficult to master at a professional level. A short introduction about VIM main can be found at this link:
+It's considered to be rather difficult to master at a professional level. A short introduction about VIM can be found at this link:
 
 [An introduction to Vim Editor (ITTCL second ed.)](https://tessarinseve.pythonanywhere.com/pelican/vim-ittcl-chapter.html)
 
@@ -70,10 +70,10 @@ Plugins are used to introduce additional functionalities and VIM has an incredib
 
 Some of the most widely appreciated are listed below:
 
-* [vim - fugitive](https://github.com/tpope/vim-fugitive) a Git wrapper.
-* [nerdtree](https://github.com/preservim/nerdtree) a file explorer.
-* [YCM](https://github.com/ycm-core/YouCompleteMe) the code-completion engine.
-* [startify](https://github.com/mhinz/vim-startify) a start screen.
+* [vim - fugitive](https://github.com/tpope/vim-fugitive), a Git wrapper.
+* [nerdtree](https://github.com/preservim/nerdtree), a file explorer.
+* [YCM](https://github.com/ycm-core/YouCompleteMe), the code-completion engine.
+* [startify](https://github.com/mhinz/vim-startify), a start screen.
 
 It's always recommendable to use the latest stable release (VIM 8.2 at the time of writing). 
 
