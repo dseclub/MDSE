@@ -59,7 +59,7 @@
 
 ##  Vim - Tmux
 According to a recent Stack Overflow's survey, [VIM](https://www.vim.org/) text editor is the fourth most popular developer environment and code editor despite it was first released in 1991.
-The reasons for this longevity are many, it's free software with a permissive GNU-like license (VIM License), fast, cross-platform and terminal-based.
+The reasons for this longevity are many: it's free software with a permissive GNU-like license (VIM License), fast, cross-platform and terminal-based.
 
 The distinctive feature compared with other popular editors is its incredibly efficient multimodal editing style that depends entirely on keyboard commands.
 It's considered to be rather difficult to master at a professional level. A short introduction about VIM can be found at this link:
