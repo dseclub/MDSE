@@ -100,7 +100,7 @@ https://github.com/daneah/pipenv-tutorial/blob/master/cheatsheet.md
 
 Python virtualenv Ubuntu
 ```
-$ sudo pip install virtualenv myenv    # if error   sudo apt install python-pip
+$ sudo pip install virtualenv myenv   
 $ sudo apt-get update
 $ virtualenv myenv
 $ source myenv/bin/activate          # deactivate
@@ -129,15 +129,15 @@ $ deactivate
 ```
 ### Create a virtual environment with specific version
 ```
-$ conda create --name mypython3version python=3.5
+$ conda create --name mypython3version python=3.8
 ```
 ### Create a virtual environment with specific version and a single module
 ```
-$ conda create --name mypython3version python=3.5 numpy
+$ conda create --name mypython3version python=3.8 numpy
 ```
 ### Create a virtual environment with specific version with entire Anaconda distribution
 ```
-$ conda create --name mypython3version python=3.5 anaconda
+$ conda create --name mypython3version python=3.8 anaconda
 ```
 ### To check the environments
 ```
@@ -168,9 +168,6 @@ $ conda info --envs
 ## Vagrant
 
 https://github.com/hashicorp/vagrant
-
-##  Dockerconda
-
 
 
 ##  Collaboration tools
