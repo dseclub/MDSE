@@ -79,7 +79,7 @@ Install any of the below that would be useful for your project, or find addition
 - [choco://wsl-ubuntu-1804](choco://wsl-ubuntu-1804)
 
 
-## MacOS Development 
+## MacOS Development
 
 ## Installing Homebrew and Core Tools
 
@@ -113,6 +113,9 @@ To install any additional programs, either open the **Cakebrew** app or copy-pas
 - `brew cask install github`
 - `brew cask install google-chrome`
 - `brew cask install slack`
+
+## Linux Development setup
+
 
 
 ##  Integrated Development Environments (IDE)
