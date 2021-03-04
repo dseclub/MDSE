@@ -1,7 +1,5 @@
 # Data pipelines
 
-- [Apache Airflow](#airflow)
-
 
 Apache Airflow is an open source project written in Python for programmatically author, schedule and monitor batch execution of tasks.
 
