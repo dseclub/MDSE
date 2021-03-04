@@ -4,10 +4,8 @@
 ## Table of Contents
 
   - [Installation](#installation)
-  - Operational Systems
-    - [Linux Ubuntu](#ubuntu)
   - Integrated Development Environments (IDE)
-    - [Anaconda](#anaconda)
+    - [VSCode](#vscode)
     - [PySharm](#pysharm)
     - [Atom](#atom)
     - [Vim](#vim)
@@ -21,7 +19,6 @@
   - [Version control & repository systems](#git)
     - [Github cheat-sheet](github-cheat-sheet)
     - [Introduction to Git & Github RG](github)
-  - Virtualization - Containerization
   - Collaboration tools
     - [Slack](#slack)
     - [Zoom](#zoom)
@@ -32,30 +29,107 @@
 
 ## Installation
 
-##  Operational Systems
+## Windows Development setup
 
-## Ubuntu
+Package managers like Chocolatey and Homebrew exist to streamline the process of getting new software installed (and keeping it updated) on your machine.
 
-### Linux excels at all of these points:
+The package manager reduces the time to get software installed, saving hours of time and ensuring everyone's machines are setup correctly with minimal effort. Here's a quick overview of the tools you'll install in the next section:
 
-## MacOS
+1. A **package manager**: Chocolatey (for Windows) or Homebrew (for Mac)
+2. **Docker** - to run containerized apps and create your own.
+3. **Git** - a version control platform used to store and manage code.
+4. **GitHub Desktop** - a friendly GUI which works with Git and GitHub.com.
+5. **Python** - a software language useful for developing new programs and scripts, and also used for its popular package manager `pip`, which allows users to install Python programs written by others.
+6. **Terraform** - the leading cross-platform solution for automating Infrastructure as Code (IaC).
+7. **VS Code** - a robust, fast, and lightweight development environment (IDE).
 
-## Windows
+## Installing Chocolatey and Core Tools
+
+1. Open "cmd.exe" as an administrator.
+2. Paste and run the [Chocolatey.org](https://chocolatey.org/docs/installation#install-with-cmdexe) install script:
+
+    ```cmd
+    @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command " [System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+    ```
+
+    <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="drawing" width="45" style="float: right"/></a>
+
+3. Install git.
+
+    ```cmd
+    choco install -y git.install --params "/GitOnlyOnPath /SChannel /NoAutoCrlf /WindowsTerminal"
+    ```
+
+4. Install core tools:
+
+    ```cmd
+    choco install -y choco-protocol-support chocolateygui sudo terraform vscode
+    choco install -y python3
+    choco install -y docker-desktop
+    ```
+
+- **NOTE:** See the [Troubleshooting](#troubleshooting) tips below if you run into any difficulties during this process.
+
+## Installing additional tools
+
+Install any of the below that would be useful for your project, or find additional packages using [chocolatey.org/packages](https://chocolatey.org/packages)
+
+- [choco://7zip](choco://7zip)
+- [choco://anaconda3](choco://anaconda3) or [choco://miniconda](choco://miniconda)
+- [choco://awscli](choco://awscli)
+- [choco://GoogleChrome](choco://GoogleChrome)
+- [choco://wsl](choco://wsl)
+- [choco://wsl-ubuntu-1804](choco://wsl-ubuntu-1804)
+
+
+## MacOS Development 
+
+## Installing Homebrew and Core Tools
+
+1. Open "Terminal".
+2. Paste and run the [Homebrew](https://brew.sh) install script:
+
+    ```bash
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    ```
+
+    <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="drawing" width="45" style="float: right"/></a>
+
+3. Install git.
+
+    ```cmd
+    brew install git
+    ```
+
+4. Install core tools:
+
+    ```cmd
+    brew install cask docker python3 terraform
+    brew cask install cakebrew visual-studio-code
+    ```
+
+## Installing additional tools
+
+After following the instructions from the above, you should now have the **Cakebrew** app installed, which gives a friendly GUI on top of the Homebrew installer.
+
+To install any additional programs, either open the **Cakebrew** app or copy-paste the below samples into a Terminal window. (You can also find additional packages at [https://brew.sh](https://brew.sh).)
+
+- `brew install awscli`
+- `brew cask install github`
+- `brew cask install google-chrome`
+- `brew cask install slack`
+
 
 ##  Integrated Development Environments (IDE)
-##  Anaconda
 
-[Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
+##  [VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 
-[Nbviewer](https://nbviewer.jupyter.org/)
+##  [PyCharm](https://www.jetbrains.com/pycharm/)
 
-[Apache Zeppelin notebook](https://zeppelin.apache.org/)
+##  [Atom](https://atom.io/)
 
-##  PyCharm
-[PyCharm](https://www.jetbrains.com/pycharm/)
+##  [VIM](https://www.vim.org/)
 
-##  Atom
-[Atom](https://atom.io/)
 
 ##  Vim - Tmux
 According to a recent Stack Overflow's survey, [VIM](https://www.vim.org/) text editor is the fourth most popular developer environment and code editor despite it was first released in 1991.
@@ -81,9 +155,18 @@ Many program developers prefer to use VIM inside a [Tmux](https://en.wikipedia.o
 
 
 
+=======
+[An introduction to Vim Editor (ITTCL second ed.)](https://tessarinseve.pythonanywhere.com/pelican/vim-ittcl-chapter.html)
 
-##  RStudio
-[RStudio](https://www.rstudio.com/)
+[Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
+
+## [Nbviewer](https://nbviewer.jupyter.org/)
+
+[Apache Zeppelin notebook](https://zeppelin.apache.org/)
+
+
+
+## [RStudio](https://www.rstudio.com/)
 
 ## Bash
 ###  Bash Scripting / Command Line is a way of interacting with your computer  operating system using text-based commands.
@@ -91,6 +174,7 @@ Many program developers prefer to use VIM inside a [Tmux](https://en.wikipedia.o
 Bash Scripting
 
 https://programminghistorian.org/lessons/intro-to-bash
+
 https://linuxconfig.org/bash-scripting-tutorial
 
 Command Line
@@ -98,23 +182,9 @@ Command Line
 https://www.computerhope.com/issues/chusedos.htm
 
 ## Python virtual environments and package management system
-## PipEnv
-
-Pip + VirtualEnv    https://docs.pipenv.org/
-
-https://realpython.com/pipenv-guide/  https://github.com/pypa/pipenv
-
-https://opensource.com/article/18/2/why-python-devs-should-use-pipenv
-
-https://feici02.github.io/2017/09/24/pipenv-cheatsheet.html
 
 
-## PipEnv from Scratch
-https://github.com/daneah/pipenv-tutorial
-
-https://github.com/daneah/pipenv-tutorial/blob/master/cheatsheet.md
-
-
+### [Poetry - Python dependency management and packaging made easy](https://github.com/python-poetry/poetry) [Doc](https://python-poetry.org/docs/)
 
 ### VirtualEnv
 
@@ -126,20 +196,7 @@ $ virtualenv myenv
 $ source myenv/bin/activate          # deactivate
 ```
 
-http://docs.python-guide.org/en/latest/dev/virtualenvs/
-
-https://virtualenv.pypa.io/en/stable/
-https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
-
-### PyEnv
-[PyEnv](https://github.com/pyenv)
-
-
-## Conda
-https://conda.io/docs/ https://www.anaconda.com/download/
-
-https://conda.io/docs/user-guide/getting-started.html
-https://conda.io/docs/user-guide/tasks/manage-environments.html
+## [Conda](https://www.anaconda.com/download/) [Docs](https://conda.io/docs/)
 
 ```
 $ conda create --name python37
@@ -149,15 +206,15 @@ $ deactivate
 ```
 ### Create a virtual environment with specific version
 ```
-$ conda create --name mypython3version python=3.5
+$ conda create --name mypython3version python=3.8
 ```
 ### Create a virtual environment with specific version and a single module
 ```
-$ conda create --name mypython3version python=3.5 numpy
+$ conda create --name mypython3version python=3.8 numpy
 ```
 ### Create a virtual environment with specific version with entire Anaconda distribution
 ```
-$ conda create --name mypython3version python=3.5 anaconda
+$ conda create --name mypython3version python=3.8 anaconda
 ```
 ### To check the environments
 ```
@@ -177,21 +234,7 @@ $ conda info --envs
 * [Udacity's course How to Use Git and GitHub](udacitygitgithub)
 * [Github template](github-template)
 
-
-
-##  Containerization - Virtualization
-
-
-
-## VM VirtualBox Oracle
-
-## Vagrant
-
-https://github.com/hashicorp/vagrant
-
-##  Dockerconda
-
-
+## [Vagrant](https://github.com/hashicorp/vagrant)
 
 ##  Collaboration tools
 

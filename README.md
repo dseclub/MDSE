@@ -9,33 +9,26 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 * [DSE toolset](toolset)
 * [Programming](programming)
 * [Applied Math Probability Statistics Algorithms](MathProbStatAlgo)
+* [Data Analysis and Visualisation](DataAnalysis)
 * [Cloud Computing](CloudComputing)
-* [Data Analysis](DataAnalysis)
-* [Data Visualisation & Storytelling](DataVisualisation)
-* [Data Management Systems](DataManagementSystems)
 * [Data Engineering](DataEngineering)
-* [Docker Kubernetes DevOps](Containers)
-* [Distributed Systems](DistributedSystems)
-* [Building Web Applications and API](BuildingWebApplications)
 * [Machine Learning](MachineLearning)
 * [Deep Learning & NLP](DeepLearningNLP)
-* [Project Management](ProjectManagement)
-* [DSE projects](DSEprojects)
-
-
 
 
 ## Reference Books and Research Papers:
 
 **Books:**
 
-**Practical DevOps** by Joakim Verona
-
-**Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
+**Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines** by Chris Fregly, Antje Barth
 
 **Docker for Data Science** by Joshua Cook
 
 **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
+
+**Practical DevOps** by Joakim Verona
+
+**Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
 
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
@@ -51,11 +44,10 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 
 **Papers:**
 
-Paper by Tomas Mikolov Google http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
+
 
 
 **Resources**
-https://medium.com/
 https://towardsdatascience.com/machine-learning/home
 https://www.datasciencecentral.com/
 https://www.kdnuggets.com/
