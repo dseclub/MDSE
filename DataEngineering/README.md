@@ -1,7 +1,7 @@
 
 # Data Engineering
 
-## [Data Pipelines](DataEngineering/DataPipelines)
+## [Data Pipelines](DataPipelines)
 
 ## [Data Management Systems](DataManagementSystems)
 
