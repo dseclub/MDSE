@@ -90,8 +90,6 @@ Install any of the below that would be useful for your project, or find addition
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     ```
 
-    <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="drawing" width="45" style="float: right"/></a>
-
 3. Install git.
 
     ```cmd
