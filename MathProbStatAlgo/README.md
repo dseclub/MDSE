@@ -128,4 +128,7 @@ http://www.deeplearningbook.org/contents/ml.html
 
 ## Reference Books and Research Papers:
 
+**Computational Statistics in Python** https://people.duke.edu/~ccc14/sta-663/index.html
+
+
 **The Elements of Statistical Learning R** T.Hastie, R.Tibshirani, J.Friedman http://www-bcf.usc.edu/~gareth/ISL/
