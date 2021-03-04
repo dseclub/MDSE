@@ -52,7 +52,6 @@ The package manager reduces the time to get software installed, saving hours of 
     @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command " [System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
     ```
 
-    <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" alt="drawing" width="45" style="float: right"/></a>
 
 3. Install git.
 
@@ -67,8 +66,6 @@ The package manager reduces the time to get software installed, saving hours of 
     choco install -y python3
     choco install -y docker-desktop
     ```
-
-- **NOTE:** See the [Troubleshooting](#troubleshooting) tips below if you run into any difficulties during this process.
 
 ## Installing additional tools
 
