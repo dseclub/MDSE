@@ -110,11 +110,13 @@ After following the instructions from the above, you should now have the **Cakeb
 To install any additional programs, either open the **Cakebrew** app or copy-paste the below samples into a Terminal window. (You can also find additional packages at [https://brew.sh](https://brew.sh).)
 
 - `brew install awscli`
-- `brew cask install github`
 - `brew cask install google-chrome`
 - `brew cask install slack`
 
 ## Linux Development setup
+
+- `sudo apt install git`
+- `sudo snap install --classic code`
 
 
 
@@ -161,11 +163,18 @@ https://www.computerhope.com/issues/chusedos.htm
 
 Python virtualenv Ubuntu
 ```
-$ sudo pip install virtualenv myenv    # if error   sudo apt install python-pip
-$ sudo apt-get update
+$ sudo pip install virtualenv myenv   
 $ virtualenv myenv
 $ source myenv/bin/activate          # deactivate
 ```
+```
+$ sudo apt-get install python3-venv
+$ python3 -m venv env38
+$ source env38/bin/activate
+
+$ pip install -r requirements.txt
+```
+
 
 ## [Conda](https://www.anaconda.com/download/) [Docs](https://conda.io/docs/)
 
