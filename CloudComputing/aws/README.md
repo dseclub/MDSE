@@ -95,3 +95,6 @@ AWS services: compute, storage, database, and network
 
 The Definitive Guide to AWS Infrastructure Automation by Bradley Campbell 
 
+AWS Certified Machine Learning Specialty 2020 Certification Guide 
+
+
