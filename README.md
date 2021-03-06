@@ -20,6 +20,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Books:**
 
+**Hands-on Scikit-Learn for Machine Learning Applications** by David Paper 
+
+**Building ML Powered Applications** by Emmanuel Ameisen
+
 **Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines** by Chris Fregly, Antje Barth
 
 **Docker for Data Science** by Joshua Cook
