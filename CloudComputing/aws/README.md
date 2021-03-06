@@ -89,4 +89,9 @@ AWS services: compute, storage, database, and network
 
 - DevOps  
 
-- Security - Advance
+- Security 
+
+## Books
+
+The Definitive Guide to AWS Infrastructure Automation by Bradley Campbell 
+
