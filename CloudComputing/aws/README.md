@@ -18,78 +18,120 @@ https://github.com/awslabs
 https://github.com/aws-samples
 
 
-AWS Fundamentals - Developer
-Big DATA
-ML AI
-DevOps  
-Security - Advance
+# Well-Architected Framework five pillars
 
-Notes  word    CA AWS Compute EC2
-
-Labs word, short instruction
-
-Workshops
-
-Projects idea
-
-References
+1. Operational Excellence
+2. Security
+3. Reliability
+4. Performance Efficiency
+5. Cost Optimization
 
 
+## Operational Excellence
+
+### Design Principles
+
+- Perform operations as code
+- Annotate documents
+- Make frequent, small, reversible changes
+- Refine operations procedures frequently
+- Anticipate failure
+- Learn from all operational failures
+
+### Best Practices
+
+- Prepare
+- Operate
+- Evolve
+
+__Key AWS Service__ — AWS CloudFormation.
 
 
-AWS services: compute, storage, database, and network
+## Security
+
+### Design Principles
+
+- Implement a strong identity foundations
+- Enable traceability
+- Apply security at all layers
+- Automate security best practices
+- Protect data in transit and at rest
+- Keep people away from data
+- Prepare for security events
+
+### Best Practices
+
+- Identity and Access Management
+- Detective Controls
+- Infrastructure Protection
+- Data Protection
+- Incident Response
+
+__Key AWS Service__ — AWS Identity and Access Management (IAM).
 
 
-- AWS COMPUTE
-  - EC2
-  - Elastic Load Balancer
-  - EC2 Container Services
-  - Elastic Beanstalk
-  - AWS Lambda   - Serverless
+## Reliability
+
+### Design Principles
+
+- Test recovery procedures
+- Automatically recover from failure
+- Scale horizontally to increase aggregate system availability
+- Stop guessing capacity
+- Manage change in automation
+
+### Best Practices
+
+- Foundations
+- Change Management
+- Failure Management
+
+__Key AWS Service__ — Amazon CloudWatch.
 
 
-- AWS STORAGE
-  - Amazon Simple Storage Service (S3)
-  - Amazon Glacier
-  - EC2 Instance Storage
-  - Amazon Elastic Block Store (EBS)
-  - Amazon Elastic File System
-  - Amazon Cloudfront
+## Performance Efficiency
 
-- AWS STORAGE - DATA SERVICES
-  - AWS Storage Gateway
-  - AWS Snowball
+### Design Principles
 
-- AWS Databases
-  - RDS
-  - Aurora
-  - DynamoDB
-  - ElastiCashe
+- Democratize advanced technologies
+- Go global in minutes
+- Use serverless architecture
+- Experiment more often
+- Mechanical sympathy
 
+### Best Practices
 
-- AWS Networking
-   - Virtual Private Cloud - VPC
-   - CloudFront
-   - Direct Connect  
+- Selection
+    - Compute
+    - Storage
+    - Database
+    - Network
+- Review
+- Monitoring
+- Tradeoffs
 
-- AWS Management Tools, Code Tools   
-  - DeveloperTools: CodeCommit, CodeBuild, CodeDeploy, and CodePipeline
-  - Management Tools: CloudWatch, CloudFormation, and CloudTrail
-  - AWS Identity and Access Management, or IAM
+__Key AWS Service__ — Amazon CloudWatch.
 
 
-- AWS Internet of Things
+## Cost Optimization
 
+### Design Principles
 
-- Big Data
+- Adopt a consumption model
+- Measure overall efficiency
+- Stop spending money on data center operations
+- Analyze and attribute expenditure
+- Use managed and application level services to reduce cost of ownership
 
-- ML AI
+### Best Practices
 
-- Simple Crypto service
+- Expenditure Awareness
+- Cost-Effective Resources
+- Matching Supply and Demand
+- Optimizing Over Time
 
-- DevOps  
+__Key AWS Service__ — Cost Explorer.
 
-- Security 
 
 ## Books
 
