@@ -382,3 +382,210 @@ S**avings Plans**	Reduces your Amazon EC2 costs by making a commitment to a cons
 **Triggers**	Actions caused by specific events that will further trigger the lambda function
 
 **XML (Extensible Markup Language)**	A markup language that defines a set of rules for encoding documents in a format that can be easily read by humans and machines
+
+**Authentication** Who can sign in and use the API.
+
+**Authorization** What permissions that user has.
+
+**IAM Users**
+An IAM User is a resource that represents a person or application and allows that person to interact with AWS. It consists of a name, console login credentials, and API keys.
+
+**Instance Profile Roles**
+Instance profile role is a special role that is assigned to EC2 instances which allow application running on those instances to obtain temporary credentials aligned with that role.
+
+**Assume Role**
+When I say a server can "assume a role", I mean the application can obtain temporary credentials that are aligned to a role from AWS.
+
+**Root User**
+The root user of the AWS account is the email address that was used to create the account. This user has full control of the account and its credentials should be treated with the highest sensitivity
+
+**Multi-Factor Authentication (MFA)**
+An authentication mechanism in which a user must present two or more peices of evidence (or factors) to an authentication system. In AWS the user can setup multi factor authentication by setting up a virtual or physical MFA device which they would need to physically posses and present in addition to their password for logging in.
+
+**RBAC**
+Role Based Access Control refers to the model of allowing users permission to use roles which they have been assigned to as part of their job function. Specific roles would provide access and permissions to specific systems and actions.
+
+**Identity Federation**
+Identity Federation enables you to manage access to your AWS resources centrally. With federation, you can use single sign-on (SSO) to access your AWS accounts using credentials from your corporate directory. Federation uses open standards, such as Security Assertion Markup Language 2.0 (SAML), to exchange identity and security information between an identity provider (IdP) and an application.
+
+**IAM Roles**
+AWS IAM identity in an AWS account which provides specific AWS permissions. Authorized entities, such as IAM users, identity providers, and AWS services shall assume a role and gain the permissions assigned with that role. No permanent password or credentials exist with an IAM role. Users who assume the role will have access to temporary credentials to make API calls.
+
+**IAM Policies**
+Document(s) assigned to IAM users and roles that specify what actions that user can take in AWS, whether to allow or deny the action, what specific resources that action can be executed on, and any other conditions related to the permissions.
+
+**Resource Policies**
+Policy documents associated with a specific resource in AWS, such as an S3 bucket, which defines who can perform what actions, with specific resources and conditions as needed. Similar to an IAM policy except it is associated with a resource and the actor or principal needs to be defined.
+
+**Attribute Based Access Control**
+Attribute-based access control (ABAC) is an authorization strategy that defines permissions based on AWS tags. Tags can be attached to IAM principals (users or roles) and to AWS resources. You can create a single ABAC policy or small set of policies for your IAM principals. These ABAC policies can be designed to allow operations when the principal's tag matches the resource tag.
+
+**Least Privilege Access**
+When creating IAM policies that provide permissions to users and roles, we want to follow the common security practice of granting least privilege. Least Privilege means we grant only the permissions required to perform the necessary tasks.
+
+**Control Plane** Also known as the management plane, this is the ability to interact with AWS in order to provision and configure services.
+
+**Key Pair
+A key pair consists of a public key and private key that authenticate and encrypt an SSH session. The public key can be hosted on cloud servers and the private key is held by the user. Only a user with the private key that corresponds to the public key will be able to authenticate to the SSH server.
+
+**Privilege Access Management (PAM) Tool**
+A privileged access management tool provides management of authentication, sessions, password storage, audit, and privilege escalation when it comes to logging into server infrastructure.
+
+**AWS Systems Manager (SSM)**
+The AWS Systems Manager service provides the ability to manage EC2 instances at the operating system level - including patching, command execution, automation, state management, inventory.
+
+**Session Manager**
+Session Manager is a feature within AWS Systems Manager which allows an authenticated IAM user or role the ability to start a terminal session on an EC2 instance.
+
+**Open Vulnerability**
+An exploitable vulnerability in the OS kernel, packages, or applications installed on an instance which could lead to a remote actor gaining unauthorized access.
+
+**Immutability**
+A deployment model where components do not undergo any changes from provisioning to deprovisioning.
+
+**Immutable Instances**
+Instances that are launched from pre-configured images and do not undergo any changes from deployment to deprovisioning.
+
+**Configuration Management Tool**
+Tools that can enforce operating system configuration state based on versioned code templates.
+
+**Intrusion Detection System (IDS)**
+A process that monitors system activity and identifies suspicious behaviour indicating that a server has been compromised.
+
+**Security Information and Event Management (SIEM)**
+Tools that aggregate system events and logs in order to provide historical and real-time analysis, correlation, dashboards, and alerting.
+
+**Ingress**
+In-bound network traffic that is entering your cloud environment from the outside.
+
+**Egress**
+Out-bound network traffic that is leaving your cloud environment.
+
+**Internet Gateway**
+Network component that is part of a VPC that facilitates out-bound and in-bound traffic to the internet.
+
+**NAT Gateway**
+A NAT Gateway is an AWS managed network component which allows instances in private subnets to connect to the internet but does not allow connection attempts from the internet to reach private instances.
+
+**Proxy Layer (or Proxy Farm)**
+A set of HTTP proxy servers designed to handle internet bound HTTP traffic. This solution provides additional visibility and control on which internet sites can be reached.
+
+**VPN**
+Extends a private network such as an AWS VPC to an on-premise LAN or a user’s local host. VPNs are encrypted tunnels that go over the internet.
+
+**Direct Connect**
+A dedicated and private network link between a company's on-premise local network and an AWS Direct Connect location - enabling two way traffic between AWS resources and the local network.
+
+**Network ACL (NACL)**
+Firewall construct in AWS which allows controls to be placed on VPC subnet network traffic.
+
+**Security Group**
+Firewall construct in AWS which allows controls to be placed on individual resources that are deployed in a VPC.
+
+**Bastion Hosts**
+Bastion hosts, or jump hosts, are set up in a public subnet to allow a user to login from either their home or office network, and subsequently access or jump to resources in private networks.
+
+**Virtual Desktop Solution**
+A desktop deployed in a cloud VPC that can be used to run applications that need connectivity to resources in the VPC. A user would install a virtual desktop client on their local host to connect to the virtual desktop.
+
+**Client VPN**
+A secure tunnel between a user's local host and a VPN server in a cloud VPC. The tunnel is established using a VPN client running on the user's host.
+
+**Site-to-Site VPN**
+A secure network tunnel between a local trusted network and the AWS VPC, using the AWS VPN service or other VPN product.
+
+**Direct Connect**
+A dedicated and private network link between a company's on-premise local network and an AWS Direct Connect location - enabling two way traffic between AWS resources and the local network. 
+
+**AWS Encryption SDK
+Encryption libraries provided by AWS that an application can use to encrypt data prior to writing to storage. The SDK makes the process of using the AWS key management service seamless.
+
+**Key Management Service (KMS)**
+AWS service that allows provisioning, storage and management of master encryption keys. KMS also provides the ability to manage permissions pertaining to cryptographic actions on encryption keys.
+
+**Client-Side Encryption**
+With client-side encryption, the application code will handle cryptographic operations on the data prior to persisting to a given storage medium.
+
+**Server-Side Encryption**
+With server-side encryption, the storage service being used will handle cryptographic operations on the data while handling read and write operations. This process is transparent to the application which persists the data.
+
+**Key Management Service (KMS)**
+AWS service that allows provisioning, storage and management of master encryption keys. KMS also provides the ability to manage permissions pertaining to cryptographic actions on encryption keys.
+
+**Customer Master Key (CMK)**
+The **customer master key** is the master encryption key that will be used to encrypt and store underlying data encryption keys in the KMS service. Other services or applications will select a CMK to use for their cryptographic operations.
+
+**AWS-managed customer master keys CMK** are provisioned, rotated and managed by AWS. AWS will provision a new master key for each AWS service in the AWS account at the time the service needs to start encrypting data. These keys are not available to use by your applications for client-side encryption. You may not change or assign permissions on these keys.
+
+**Customer-managed CMK** master keys are provisioned and managed by the customer (you). Once you provision a key, you may use that key with any AWS services or applications.
+
+You can manage permissions on customer managed CMKs to control which IAM users or roles can manage or use the encryption keys. Permissions to use the keys can also be granted to AWS services and other AWS accounts.
+
+**Default Encryption** A configuration setting on an AWS resource, such as an S3 bucket, designating that the storage as a whole, or all objects written, will be encrypted by the service being used (e.g. S3).
+
+**Key Rotation**
+The process of changing data encryption keys used for cryptographic operations on a periodic basis.
+
+**Threat Landscape**
+Identify potential attack vectors and quantify potential exploitation and worst case blast radius.
+
+**Shift Left**
+Identifying security vulnerabilities and misconfigurations in the early phases of an application or environment's lifecycle.
+
+**Public Facing**
+Any resources which are accessible from the internet, such as web applications, public facing infrastructure, or the AWS console and API.
+
+**OWASP Top 10**
+A widely accepted set of vulnerabilities which can lead to exploitation of web applications.
+
+**Infrastructure as Code (IaC)**
+Code that is developed to define cloud infrastructure, operating system, and container configuration. Code is version controlled and follows the similar principles for changes and updates as application feature code.
+
+**CloudFormation**
+AWS native service for deploying services with infrastructure as code. CloudFormation templates defined in json or yaml can be deployed using the CloudFormation service.
+
+**Terraform**
+Popular infrastructure as code language from HashiCorp. Supports many different cloud providers in addition to AWS.
+
+**DockerFile**
+Definition specifying how a docker image will be built and configured.
+
+**Static Scanning**
+One-time (or scheduled) that will run and provide a set of findings.
+
+**Dynamic Scanning**
+Continuous monitoring that is designed to catch changes to configuration or other suspicious activity in real-time.
+
+**DevOps Pipeline**
+A set of processes and tools to build, deploy, and update application environments. Pipelines include build of application artifacts, docker and VM images, scanning and automated testing, deployment orchestration of infrastructure and application artifacts.
+
+**Security Information and Event Management (SIEM)**
+The process of collecting and combining security activity and events from cloud providers, servers, and applications for further analysis.
+
+**AWS CloudTrail**
+AWS CloudTrail is the source of activity logging within an AWS account. Any API activity, console usage, cross account access etc will be recorded in CloudTrail.
+
+**VPC Flow logs**
+VPC flow logs provide insight into network activity in an AWS VPC
+
+**DNS logs**
+Logs generated by a DNS such as Route53 providing DNS query activity.
+
+**AWS GuardDuty**
+AWS GuardDuty can monitor CloudTrail, DNS, and VPC flow logs to identify suspicious activity in the environment
+
+**AWS CloudWatch**
+AWS native service that provides monitoring, alarming, and dashboarding capabilities on metrics and logs.
+
+**Web Application Firewall (WAF)**
+A web application firewall is used to defend an application that may contain vulnerabilities from exploitation.
+
+**WAF Rules**
+Logic that will dictate what type of requests to allow or block
+
+**Managed Rules**
+Sets of rules provided and managed by third parties or AWS. Different rule sets are designed for specific purposes.
+
+**AWS Firewall Manager**
+Control WAF settings and Security Groups for all AWS accounts from a central management interface.
+
