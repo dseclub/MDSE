@@ -1,4 +1,4 @@
-able of Contents                                                                                                                       
+# Table of Contents                                                                                                                       
 =================                                                           
    * [Exam Blueprint](#exam-blueprint)                                                                                               
    * [Course Video Durations](#course-video-durations)                                                                               
