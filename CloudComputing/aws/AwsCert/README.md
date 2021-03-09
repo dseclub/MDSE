@@ -13,4 +13,4 @@
 • Provide implementation guidance based on best practices to the organization throughout the life cycle of the project
 
 
-- [AWS Certified Solution Architect Associate Study Notes ACloud Guru Udemy](AwsCsa2018)
+ [AWS Certified Solution Architect Associate Study Notes ACloud Guru Udemy](AwsCsa2018)
