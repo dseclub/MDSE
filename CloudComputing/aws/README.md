@@ -14,8 +14,13 @@
 
 ## AWS
 https://github.com/aws
+
 https://github.com/awslabs
+
 https://github.com/aws-samples
+
+
+https://github.com/open-guides/og-aws
 
 
 # Well-Architected Framework five pillars
