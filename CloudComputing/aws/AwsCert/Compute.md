@@ -1,4 +1,4 @@
-#	Compute (EC2, EC2 Container Service, Elastic Beanstalk, Lambda, Lightsail)
+#	Compute (EC2, ECS, Elastic Beanstalk, Lambda, Lightsail)
 
 # EC2
 
