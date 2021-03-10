@@ -1,5 +1,5 @@
 # Table of Contents                                                                                                                       
-=================                                                           
+                                                      
    * [Exam Blueprint](#exam-blueprint)                                                                                               
    * [Course Video Durations](#course-video-durations)                                                                               
    * [AWS 10000 Feet Overview](#aws-10000-feet-overview)                                                                               
