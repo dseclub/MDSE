@@ -23,6 +23,6 @@
 - [Security and Identity](SecurityIAM.md)
 - [Serverless](Serverless.md)
 - [Management Tools](ManagementTools.md)
-- [Developer Tools](DveloperTools.md)
+- [Developer Tools](DeveloperTools.md)
 - [Messaging](Messaging.md)
 
