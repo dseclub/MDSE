@@ -22,6 +22,7 @@
 - [Databases](Databases.md)
 - [Security and Identity](SecurityIAM.md)
 - [Serverless](Serverless.md)
+- [Application Services](ApplicationServices.md)
 - [Management Tools](ManagementTools.md)
 - [Developer Tools](DeveloperTools.md)
 - [Messaging](Messaging.md)
