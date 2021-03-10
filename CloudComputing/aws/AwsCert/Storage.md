@@ -1,4 +1,4 @@
-•	Storage (S3, Glacier, EFS, Storage Gateway)
+#	Storage (S3, Glacier, EFS, Storage Gateway)
 
 # S3
 
