@@ -16,12 +16,12 @@
  [AWS Certified Solution Architect Associate Study Notes ACloud Guru Udemy](AwsCsa2018)
 
 
-- [Compute](compute.md)
-- [Networking](networking.md)
-- [Storage](storage.md)
+- [Compute](Compute.md)
+- [Networking](Networking.md)
+- [Storage](Storage.md)
 - [Databases](Databases.md)
-- [Security and Identity](securityidentity.md)
+- [Security and Identity](SecurityIdentity.md)
 - [Serverless](Serverless.md)
-- [Management Tools](managementtools.md)
-- [Developer Tools](developertools.md)
+- [Management Tools](ManagementTools.md)
+- [Developer Tools](DveloperTools.md)
 
