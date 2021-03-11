@@ -31,3 +31,6 @@ Edge location is used for caching content, consists of CloudFront, Amazon's Cont
 - Can create and customise your own password rotation policies
 
 ## WAF
+- AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability,
+compromise security, or consume excessive resources.
+- Using AWS WAF to Control Access to Your Content
