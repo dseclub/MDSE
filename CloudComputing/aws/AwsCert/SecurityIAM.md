@@ -1,4 +1,4 @@
-# Security and Identity (IAM, Inspector, Certificate Management, Directory Service, WAF)
+# Security and Identity (IAM, Inspector, WAF)
 
 
 # IAM
