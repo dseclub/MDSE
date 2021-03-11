@@ -31,6 +31,8 @@ Edge location is used for caching content, consists of CloudFront, Amazon's Cont
 - Can create and customise your own password rotation policies
 
 ## WAF
+- Web Application Firewall (WAF) A web application firewall is used to defend an application that may contain vulnerabilities from exploitation.
 - AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability,
 compromise security, or consume excessive resources.
 - Using AWS WAF to Control Access to Your Content
+- WAF Rules Logic that will dictate what type of requests to allow or block
