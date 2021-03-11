@@ -36,3 +36,5 @@ Edge location is used for caching content, consists of CloudFront, Amazon's Cont
 compromise security, or consume excessive resources.
 - Using AWS WAF to Control Access to Your Content
 - WAF Rules Logic that will dictate what type of requests to allow or block
+
+AWS Firewall Manager Control WAF settings and Security Groups for all AWS accounts from a central management interface.
