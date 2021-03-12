@@ -1,7 +1,21 @@
 # AWS storage
-Amazon Simple Storage Service S3, Amazon Glacier, Amazon Elastic File System EFS, the Amazon Elastic Block Store EBS, AWS Storage Gateway, AWS Snowball, and the EC2 instance storage.
 
-# S3
+Amazon Simple Storage Service S3
+
+Amazon Glacier
+
+EC2 instance storage
+
+Amazon Elastic File System EFS
+
+the Amazon Elastic Block Store EBS
+
+AWS Storage Gateway
+
+AWS Snowball
+
+
+## S3
 
 Even though each bucket is created in specific region, S3 names must be **unique** globally
 
@@ -27,3 +41,5 @@ Even though each bucket is created in specific region, S3 names must be **unique
 - object's size is from **0 bytes** up to **5TB**
 - upload object > 100MB => **should** use multipart upload
 - upload object > 5GB => **must** use multipart upload
+
+## 
