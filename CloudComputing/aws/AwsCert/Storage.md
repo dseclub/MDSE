@@ -17,19 +17,6 @@ AWS Snowball
 
 ## S3
 
-Even though each bucket is created in specific region, S3 names must be **unique** globally
-
-## S3's Object is consists of the following:
-- Key
-- Value
-- Version ID
-- Metadata
-- Subresources (Access Control Lists, Torrent)
-
-## Data consistency work for S3:
-- Read after Write consistency for PUTS of new Objects
-- Eventual Consistency for overwrite PUTS and DELETES
-
 ## Features:
 - Tiered Storage Available
 - Lifecycle Management
