@@ -1,4 +1,23 @@
-#	Compute (EC2, ECS, Elastic Beanstalk, Lambda, Lightsail)
+#	Compute 
+
+
+EC2 - Amazon Elastic Compute Cloud 
+
+ECS - Amazon Elastic Container Service
+
+ECR - Amazon Elastic Container Registry
+
+EKS - Amazon Elastic Container Service for Kubernetes
+
+AWS Elastic Beanstalk
+
+AWS Lambda
+
+AWS Batch
+
+Amazon Lightsail
+
+
 
 # EC2
 
