@@ -17,6 +17,8 @@ AWS Snowball
 
 ## S3
 
+Amazon S3 is a fully managed object-based storage service that is highly available, highly durable, very cost-effective and widely accessible. 
+
 ## Features:
 - Tiered Storage Available
 - Lifecycle Management
@@ -31,7 +33,7 @@ AWS Snowball
 
 ## Amazon Glacier
 
-Amazon Glacier classes offer an extremely low-cost long term durable storage solution which is often referred to as cold storage, ideally suited for long term backup and archival requirements. 
+Amazon Glacier classes offer a low-cost long term durable storage solution which is often referred to as cold storage, ideally suited for long term backup and archival requirements. 
 
 S3 Glacier storage classes directly interact with the Amazon S3 lifecycle rules.
 
