@@ -1,4 +1,5 @@
-# AWS storage: Amazon Simple Storage Service S3, Amazon Glacier, Amazon Elastic File System EFS, the Amazon Elastic Block Store EBS, AWS Storage Gateway, AWS Snowball, and the EC2 instance storage.
+# AWS storage
+Amazon Simple Storage Service S3, Amazon Glacier, Amazon Elastic File System EFS, the Amazon Elastic Block Store EBS, AWS Storage Gateway, AWS Snowball, and the EC2 instance storage.
 
 # S3
 
