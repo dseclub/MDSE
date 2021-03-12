@@ -42,4 +42,14 @@ Even though each bucket is created in specific region, S3 names must be **unique
 - upload object > 100MB => **should** use multipart upload
 - upload object > 5GB => **must** use multipart upload
 
-## 
+## Amazon Glacier
+
+Amazon Glacier classes offer an extremely low-cost long term durable storage solution which is often referred to as cold storage, ideally suited for long term backup and archival requirements. 
+
+S3 Glacier storage classes directly interact with the Amazon S3 lifecycle rules.
+
+The data structure within Glacier is centered around vaults and Archives. 
+
+Move your data into the Glacier vault using the available API or SDKs or S3 lifecycle rules .
+
+Retrieving your data from archives with the APIs, SDKs or the AWS CLI. 
