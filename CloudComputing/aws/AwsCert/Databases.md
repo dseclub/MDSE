@@ -1,4 +1,14 @@
-#	Databases (RDS, DynamoDB, RedShift, Elasticache)
+#	Databases 
+
+## RDS
+
+## RedShift
+
+## Athena
+
+## DynamoDB
+
+## Elasticache
 
 ## DB Sercurity (RDS, Redshift, Aurora)
 
@@ -57,24 +67,6 @@
     - handle read traffic while the source DB Instance is unavailable (Eg. due to I/O suspension for backups or scheduled maintenance)
     - handle offload reporting or data warehouse scenarios instead of the primary DB Instance
 
-## DynamoDB
-
-- Stored on SSD storage
-- Spread across 3 geographically  distinct data centers
-- Eventual Consistent Reads is default (read data after write within 1 second)
-- can use Strong consistent read (read data after write less than 1 second), but not recommend
-- Each table in DynamoDB is limited to 20 global secondary indexes (default limit) and 5 local secondary indexes.
-- The maximum item size in DynamoDB is 400 KB
-
-## Redshift
-
-- Enabled by default with a 1 day retention period (maximum is 35 days)
-- always maintain at least 3 copies of your data (the original, replica on the compute nodes and a backup in S3)
-- can asynchronously replicate your snapshots to S3 in another region for disaster recovery
-- backups:
-    - auto backup
-    - manual backup
-
 ## Aurora
 
 - 2 copies of your data is contained in each availability zone, with minimum of 3 availability zones. 6 copies of your data
@@ -87,6 +79,27 @@
 - migrate from MySQL to Aurora
     - create read replica ⇒ promote it
     - create a snapshot ⇒ restore from that snapshot
+
+
+## Redshift
+
+- Enabled by default with a 1 day retention period (maximum is 35 days)
+- always maintain at least 3 copies of your data (the original, replica on the compute nodes and a backup in S3)
+- can asynchronously replicate your snapshots to S3 in another region for disaster recovery
+- backups:
+    - auto backup
+    - manual backup
+
+
+## DynamoDB
+
+- Stored on SSD storage
+- Spread across 3 geographically  distinct data centers
+- Eventual Consistent Reads is default (read data after write within 1 second)
+- can use Strong consistent read (read data after write less than 1 second), but not recommend
+- Each table in DynamoDB is limited to 20 global secondary indexes (default limit) and 5 local secondary indexes.
+- The maximum item size in DynamoDB is 400 KB
+
 
 ## Elasticache
 
