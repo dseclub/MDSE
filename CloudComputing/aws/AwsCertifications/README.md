@@ -52,7 +52,7 @@ Multiple response: Has two or more correct responses out of five or more options
 
 • Provide implementation guidance based on best practices to the organization throughout the life cycle of the project
 
-### Domain 1: Design Resilient Architectures
+### Domain 1: Design Resilient Architectures 30%
 
 1.1 - Design a multi-tier architecture solution
 
@@ -62,7 +62,7 @@ Multiple response: Has two or more correct responses out of five or more options
 
 1.4 - Choose appropriate resilient storage
 
-### Domain 2: Design High-Performing Architectures
+### Domain 2: Design High-Performing Architectures 28%
 
 2.1 - Identify elastic and scalable compute solutions for a workload
 
@@ -72,7 +72,7 @@ Multiple response: Has two or more correct responses out of five or more options
 
 2.4 - Choose high-performing database solutions for a workload
 
-### Domain 3: Design Secure Applications and Architectures
+### Domain 3: Design Secure Applications and Architectures 24%
 
 3.1 - Design secure access to AWS resources
 
@@ -80,7 +80,7 @@ Multiple response: Has two or more correct responses out of five or more options
 
 3.3 - Select appropriate data security options
 
-### Domain 4: Design Cost-Optimized Architectures
+### Domain 4: Design Cost-Optimized Architectures 18%
 
 4.1 - Identify cost-effective storage solutions
 
