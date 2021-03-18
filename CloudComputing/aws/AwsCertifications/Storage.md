@@ -1,7 +1,6 @@
 # AWS Storage services
 
-## Amazon Simple Storage Service (S3)
-Object storage built to store and retrieve any amount of data from anywhere
+**Amazon Simple Storage Service (S3)** Object storage built to store and retrieve any amount of data from anywhere
 
 ## Amazon Glacier
 
