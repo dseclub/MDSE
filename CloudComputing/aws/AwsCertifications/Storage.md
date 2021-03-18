@@ -2,7 +2,7 @@
 
 **Amazon Simple Storage Service (S3)** Object storage built to store and retrieve any amount of data from anywhere
 
-**Amazon Glacier**
+**Amazon Glacier** low-cost long term storage solution 
 
 **EC2 instance storage**
 
@@ -16,7 +16,8 @@
 
 **AWS Backup** Centrally manage and automate backups across AWS services
 
-## Data transfer
+** Data transfer **
+
 **AWS Storage Gateway** Hybrid cloud storage that provides on-premises access to virtually unlimited cloud storage
 
 **AWS DataSync** Easily transfer data to and from AWS up to 10x faster
