@@ -1,11 +1,8 @@
 
 # [AWS Certified Data Analytics - Specialty (DAS-C01)](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
 
-## Introduction
 The AWS Certified Data Analytics - Specialty (DAS-C01) examination is intended for individuals who perform in a data analytics-focused role. This exam validates an examinee’s comprehensive understanding of using AWS services to **design, build, secure, and maintain analytics solutions** that provide insight from data.
 
-
-## Content
 
 ### Domain 1: [Collection](Collection.md) 18%
 - Determine the operational characteristics of the collection system
@@ -43,6 +40,8 @@ Multiple response: Has two or more correct responses out of five or more options
 
 
 ## [AWS Certified Solutions Architect - Associate SAA-C02](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+He performs a architect role of designing available, cost-efficient, fault-tolerant, and scalable distributed systems on AWS.
 
 ### Abilities Validated by the Certification
 
