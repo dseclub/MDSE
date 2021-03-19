@@ -1,8 +1,8 @@
-Amazon RDS Relational Traditional applications, ERP, CRM, e-commerce
+**Amazon RDS** Relational Traditional applications, ERP, CRM, e-commerce
 
-Amazon Redshift  Traditional applications, ERP, CRM, e-commerce
+**Amazon Redshift**  Traditional applications, ERP, CRM, e-commerce
 
-Amazon DynamoDB  Key-value  High-traffic web apps, e-commerce systems, gaming applications
+**Amazon DynamoDB**  Key-value  High-traffic web apps, e-commerce systems, gaming applications
 
 Amazon ElastiCache for Redis In-memory Caching, session management, gaming leaderboards, geospatial applications
 
@@ -32,3 +32,11 @@ Amazon Aurora features a distributed, fault-tolerant, self-healing storage syste
 
 ## Amazon Redshift
 Amazon Redshiftis a fully managed, petabyte-scale data warehouse service in the cloud. The Redshift service manages all of the work of setting up, operating, and scaling a data warehouse. These tasks include provisioning capacity, monitoring and backing up the cluster, and applying patches and upgrades to the Amazon Redshift engine.
+
+## Amazon DynamoDB
+Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond performance at any scale. It's a fully managed, multiregion, multimaster, durable non-SQL database. It comes with built-in security, backup and restore, and in-memory caching for internet-scale applications.
+
+The main components of DynamoDB are:
+-	a collection which serves as the foundational table
+-	a document which is equivalent to a row in a SQL database
+-	key-value pairs which are the fields within the document or row
