@@ -19,6 +19,7 @@ Amazon Timestream Time seriesIoT applications, DevOps, industrial telemetry
 Amazon-Quantum-Ledger-Database Amazon QLDB Ledger Systems of record, supply chain, registrations, banking transactions
 
 
+## Amazon RDS
 Amazon Relational Database Service (RDS) is a managed service that makes it easy to set up, operate, and scale a relational database in AWS. It provides cost-efficient and resizable capacity while automating or outsourcing time-consuming administration tasks such as hardware provisioning, database setup, patching and backups.
 
 ## RDS dbs:
@@ -29,4 +30,5 @@ Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for
 
 Amazon Aurora features a distributed, fault-tolerant, self-healing storage system that auto-scales up to 128TB per database instance. It delivers high performance and availability with up to 15 low-latency read replicas, point-in-time recovery, continuous backup to Amazon S3, and replication across three Availability Zones (AZs).
 
-
+## Amazon Redshift
+Amazon Redshiftis a fully managed, petabyte-scale data warehouse service in the cloud. The Redshift service manages all of the work of setting up, operating, and scaling a data warehouse. These tasks include provisioning capacity, monitoring and backing up the cluster, and applying patches and upgrades to the Amazon Redshift engine.
