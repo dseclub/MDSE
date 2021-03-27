@@ -51,6 +51,8 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 
 **Deep Learning Book** by Ian Goodfellow, Yoshua Bengio, Aaron Courville https://www.deeplearningbook.org/
 
+**Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry** by Isaiah Hull 
+
 **Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool** by Tim Costello and Lori Blackshear
 
 **Papers:**
