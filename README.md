@@ -51,6 +51,7 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 
 **Deep Learning Book** by Ian Goodfellow, Yoshua Bengio, Aaron Courville https://www.deeplearningbook.org/
 
+**Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool** by Tim Costello and Lori Blackshear
 
 **Papers:**
 
