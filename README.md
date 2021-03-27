@@ -36,7 +36,9 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Database Design Best Practices** by Edward Pollack
 
+**PostgreSQL Configuration** by Baji Shaik
 
+**MySQL Concurrency** by Jesper Wisborg Krogh
 
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
