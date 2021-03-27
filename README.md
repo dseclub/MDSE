@@ -34,6 +34,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
 
+**Database Design Best Practices** by Edward Pollack
+
+
+
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
 **Python Machine Learning (2nd Ed.) Code Repository** by Sebastian Raschka, Vahid Mirjalili
