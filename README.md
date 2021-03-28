@@ -60,6 +60,9 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 
 **Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool** by Tim Costello and Lori Blackshear
 
+**Effective Business Intelligence with QuickSight** by Rajesh NadipalliRajesh Nadipalli
+
+
 **Papers:**
 
 
