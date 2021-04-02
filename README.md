@@ -40,6 +40,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **MySQL Concurrency** by Jesper Wisborg Krogh
 
+**Foundations for Architecting Data Solutions: Managing Successful Data Projects** by Ted Malaska, Jonathan Seidman 
+
+**Data Architecture A Primer for the Data Scientist: A Primer for the Data Scientist** by W.H. Inmon, Daniel Linstedt, Mary Levins
+
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
 **Python Machine Learning (2nd Ed.) Code Repository** by Sebastian Raschka, Vahid Mirjalili
