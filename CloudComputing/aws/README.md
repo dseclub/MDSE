@@ -23,6 +23,8 @@ https://github.com/open-guides/og-aws
 
 The Definitive Guide to AWS Infrastructure Automation by Bradley Campbell 
 
+**Amazon Redshift A Complete Guide** by Gerardus Blokdyk
+
 AWS Certified Machine Learning Specialty 2020 Certification Guide 
 
 **Data Science on AWS: Implementing End-to-End, Continuous AI and Machine Learning Pipelines** by Chris Fregly, Antje Barth
