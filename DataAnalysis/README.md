@@ -7,7 +7,7 @@
 - [Data Visualisation with D3](#Data-Visualisation-with-d3)
 - [Data Visualisation with R](#Data-Visualisation-with-r)
 - [Data Visualisation with Tableau](#Data-Visualisation-with-tableau)
-- [Data Visualisation with Superset]Superset)
+- [Data Visualisation with Superset](Superset)
 
 ## Data Analysis 
 
