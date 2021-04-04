@@ -1,8 +1,8 @@
 
 # Data Analysis and Visualisation
 
-- [Data Analysis with Python](#Data-Analysis-with-Python)
-- [Data Analysis with R](#Data-Analysis-with-R)
+- [Data Analysis with Python](#DataAnalysisPython)
+- [Data Analysis with R](#DataAnalysisR)
 - [Data Visualisation with Python](#Data-Visualisation-with-python)
 - [Data Visualisation with D3](#Data-Visualisation-with-d3)
 - [Data Visualisation with R](#Data-Visualisation-with-r)
