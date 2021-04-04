@@ -2,17 +2,6 @@
 
 
 ## VPC
-
-## DirectConnect
-
-## ELB
-
-## Route53
-
-## CloudFront
-
-
-## VPC
 VPC is an isolated segment of the AWS network infrastructure, allowing you to securely provision your cloud resources. 
 
 VPC Subnets allow you to segment your VPC CIDR block, forming smaller network segments across multiple availability zones within your VPC region. 
