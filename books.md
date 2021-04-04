@@ -30,9 +30,9 @@ Mastering Machine Learning on AWS by Dr. Saket S.R. Mengle , Maximo Gurmendez
 
 The Elements of Statistical Learning T.Hastie, R.Tibshirani, J.Friedman
 
-Building ML Powered Applications by Emmanuel Ameisen Natural Language Processing with Python Analyzing Text with the Natural Language Toolkit by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://www.nltk.org/book_1ed/
+Building ML Powered Applications by Emmanuel Ameisen Natural Language Processing with Python Analyzing Text with the Natural Language Toolkit by Steven Bird, Ewan Klein, and Edward Loper 
 
-Deep Learning Book by Ian Goodfellow, Yoshua Bengio, Aaron Courville https://www.deeplearningbook.org/
+Deep Learning Book by Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry by Isaiah Hull
 
