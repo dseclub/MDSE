@@ -54,7 +54,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **The Elements of Statistical Learning** T.Hastie, R.Tibshirani, J.Friedman
 
+**Machine Learning Engineering** by Andriy Burkov
+
 **Building ML Powered Applications** by Emmanuel Ameisen
+
 **Natural Language Processing with Python**  Analyzing Text with the Natural Language Toolkit
 by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://www.nltk.org/book_1ed/
 
