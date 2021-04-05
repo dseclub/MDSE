@@ -3,14 +3,8 @@
 ## Table of Contents
 
   - [Installation](installation)
-  - [Tensorflow](tensorflow)
-  - [Keras](keras)
-  - [Pytorch](pytorch)
-
   - [Introduction to Natural Language Processing](IntroductionToNLP.ipynb)
   - [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
-
-
 
 
 **Resources**
