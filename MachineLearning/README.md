@@ -8,11 +8,3 @@
 - [Kaggle](kaggle)
 
 
-
-
-
-## Reference Books and Research Papers:
-
-**Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
-
-**The Elements of Statistical Learning** T.Hastie, R.Tibshirani, J.Friedman
