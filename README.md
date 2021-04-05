@@ -44,6 +44,8 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Data Architecture A Primer for the Data Scientist: A Primer for the Data Scientist** by W.H. Inmon, Daniel Linstedt, Mary Levins
 
+**Introducing MLOps: How to Scale Machine Learning in the Enterprise** by Mark Treveil
+
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
 
 **Python Machine Learning (2nd Ed.) Code Repository** by Sebastian Raschka, Vahid Mirjalili
