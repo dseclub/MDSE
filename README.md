@@ -50,6 +50,8 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Python Machine Learning (2nd Ed.) Code Repository** by Sebastian Raschka, Vahid Mirjalili
 
+**Machine Learning with BigQuery ML** by Alessandro Marrandino
+
 **Engineering MLOps** by Emmanuel Raj
 
 **Mastering Machine Learning on AWS** by Dr. Saket S.R. Mengle , Maximo Gurmendez
