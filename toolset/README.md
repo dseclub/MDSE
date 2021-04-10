@@ -126,6 +126,8 @@ To install any additional programs, either open the **Cakebrew** app or copy-pas
 
 ##  [PyCharm](https://www.jetbrains.com/pycharm/)
 
+
+
 ##  [Atom](https://atom.io/)
 
 ##  [VIM](https://www.vim.org/)
@@ -231,10 +233,19 @@ https://blogs.otago.ac.nz/zoom/how-to-join-a-zoom-meeting-step-by-step/
 https://www.skype.com/en/
 
 ##  Presentation tools
+
+
 ##  Google Slides
 [Google Slides](https://docs.google.com/presentation/u/0/)
 
-##  jupyter notebook
+##  Jupyter Notebook
+
+[jupyter notebook](https://github.com/jupyter/notebook)
+
+https://docs.github.com/en/github/managing-files-in-a-repository/working-with-jupyter-notebook-files-on-github
+
+https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/
+
 
 ## Resources
 https://www.ngdata.com/top-tools-for-data-scientists/
