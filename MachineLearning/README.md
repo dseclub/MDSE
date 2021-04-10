@@ -8,3 +8,6 @@
 - [Kaggle](kaggle)
 
 
+## Resources
+
+https://machinelearningmastery.com/
