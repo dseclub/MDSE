@@ -1,4 +1,2 @@
-# Data pipelines
+# Apache Airflow tutorial
 
-- [Apache Airflow](#airflow)
-- [Apache Kafka](#kafka)
