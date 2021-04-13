@@ -3,7 +3,7 @@
 ## Introduction
 
 - [ETL](etl)
-- [Apache Airflow](airflow)
+- [Apache Airflow](Airflow)
 - [DBT Data build tool](dbt)
 - [Data Validation frameworks](datavalidation)
 
