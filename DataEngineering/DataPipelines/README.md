@@ -2,9 +2,9 @@
 
 ## Introduction
 
-
-- [DBT](#dbt)
-- [Apache Airflow](#airflow)
-- [Apache Kafka](#kafka)
+- [Commersial ETL](etl)
+- [DBT](dbt)
+- [Apache Airflow](airflow)
+- [Apache Kafka](kafka)
 
 ## Resources
