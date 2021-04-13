@@ -3,9 +3,10 @@
 ## Introduction
 
 - [Commersial ETL](etl)
+- [Apache Airflow](airflow)
 - [DBT Data build tool](dbt)
 - [Data Validation frameworks](datavalidation)
-- [Apache Airflow](airflow)
+
 
 - [Apache Kafka](kafka)
 
