@@ -4,7 +4,7 @@
 
 - [Commersial ETL](etl)
 - [Data Validation frameworks](datavalidation)
-- [DBT](dbt)
+- [DBT Data build tool](dbt)
 - [Apache Airflow](airflow)
 
 - [Apache Kafka](kafka)
