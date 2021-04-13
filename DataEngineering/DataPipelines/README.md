@@ -3,9 +3,10 @@
 ## Introduction
 
 - [Commersial ETL](etl)
-- [data validation frameworks](datavalidation)
+- [Data Validation frameworks](datavalidation)
 - [DBT](dbt)
 - [Apache Airflow](airflow)
+
 - [Apache Kafka](kafka)
 
 ## Resources
