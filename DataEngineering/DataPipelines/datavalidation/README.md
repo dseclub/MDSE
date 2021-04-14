@@ -24,9 +24,9 @@ https://hudi.apache.org/
 
 
 
-Delta Lake
+**Delta Lake** is a storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines.
 
-
+https://github.com/delta-io/delta
 
 
 
