@@ -1,6 +1,6 @@
 # Data Validation frameworks
 
-**Apache Hudi** brings stream processing to big data, providing fresh data while being an order of magnitude efficient over traditional batch processing.
+**Apache Hudi** brings stream processing to big data, providing fresh data while being an order of magnitude efficient over traditional batch processing. Features:
 
 - Upsert support with fast, pluggable indexing.
 
