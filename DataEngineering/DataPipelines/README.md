@@ -8,8 +8,6 @@
 - [Data Validation frameworks](datavalidation)
 
 
-- [Apache Kafka](kafka)
-
 ## Resources
 
 
