@@ -4,3 +4,7 @@ Databases
 
 [PostgreSQL](postgresql)
 
+Data Warehouses
+
+[Amazon Redshift](redshift)
+
