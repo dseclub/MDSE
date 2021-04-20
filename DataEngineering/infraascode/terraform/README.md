@@ -14,4 +14,6 @@ https://learn.hashicorp.com/terraform
 
 Terraform: Up & Running: Writing Infrastructure as Code by Yevgeniy Brikman
 
+Terraform Cookbook: Efficiently Define, Launch, and Manage Infrastructure as Code Across Various Cloud Platforms by Mikael Krief and Mitchell Hashimoto
+
 Terraform in Action by Scott Winkler
