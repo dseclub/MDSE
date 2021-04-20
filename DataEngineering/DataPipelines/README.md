@@ -18,3 +18,8 @@
 ## Resources
 
 
+
+
+## Books
+
+Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python by Paul Crickard
