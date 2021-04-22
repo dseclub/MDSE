@@ -15,7 +15,7 @@
 
 ## [Monitoring](Monitoring)
 
-## [Infrastructure as Code](infraascode)
+## [Infrastructure as Code](InfraAsCode)
 
 
 
