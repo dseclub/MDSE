@@ -23,8 +23,13 @@ Developers can use one of the supported programming languages to define reusable
 
 https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html
 
+https://github.com/aws/aws-cdk
 
+https://cdkworkshop.com/30-python.html
 
+https://docs.aws.amazon.com/cdk/api/latest/docs/pipelines-readme.html
+
+https://github.com/aws-samples/cdk-pipelines-demo/tree/python
 
 
 ## Books
