@@ -17,3 +17,8 @@ https://github.com/awslabs/amazon-redshift-monitoring
 
 
 https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift/
+
+
+## Books
+
+Amazon Redshift Cookbook
