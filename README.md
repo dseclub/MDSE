@@ -20,6 +20,8 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Books:**
 
+**Advanced Python Development** by Matthew Wilkes 
+
 **Hands-on Scikit-Learn for Machine Learning Applications** by David Paper 
 
 **Building ML Powered Applications** by Emmanuel Ameisen
