@@ -10,6 +10,21 @@ AWS Glue consists of a central metadata repository known as the AWS Glue Data Ca
 
 **Glue Classifier** A classifier reads the data in a data store. If it recognizes the format of the data, it generates a schema. The classifier also returns a certainty number to indicate how certain the format recognition was. AWS Glue provides a set of built-in classifiers, but you can also create custom classifiers.
 
+**Glue Data Catalog** is a central repository to store structural and operational metadata for all your data assets. For a given data set, you can store its table definition, physical location, add business relevant attributes, as well as track how this data has changed over time. AWS Glue provides a number of ways to populate metadata into the AWS Glue Data Catalog. AWS Glue Data Catalog is Apache Hive Metastore compatible. 
+
+**Glue streaming** extract, transform, and load (ETL) jobs that run continuously, consume data from streaming sources like Amazon Kinesis Data Streams, Apache Kafka, and Amazon Managed Streaming for Apache Kafka (Amazon MSK). 
+
+Glue Streaming is built based on Spark streaming which is micro-batch oriented and inherits all features of Spark Streaming. 
+
+
+**AWS Glue DataBrew** is a visual data preparation tool that makes it easy for data analysts and data scientists to prepare data with an interactive, point-and-click visual interface without writing code. With Glue DataBrew, you can easily visualize, clean, and normalize terabytes, and even petabytes of data directly from your data lake, data warehouses, and databases, including Amazon S3, Amazon Redshift, Amazon Aurora, and Amazon RDS.
+
+AWS Glue DataBrew is built for users who need to clean and normalize data for analytics and machine learning. Data analysts and data scientists are the primary users.
+ For data analysts, examples of job functions are business intelligence analysts, operations analysts, market intelligence analysts, legal analysts, financial analysts, economists, quants, or accountants. For data scientists, examples of job functions are materials scientists, bioanalytical scientists, and scientific researchers.
+
+
+**AWS Glue Studio** is a visual interface for AWS Glue that makes it easy for extract-transform-and-load (ETL) developers to author, run, and monitor AWS Glue ETL jobs. 
+
 ## Resources
 
 https://docs.aws.amazon.com/glue/latest/dg/getting-started.html
