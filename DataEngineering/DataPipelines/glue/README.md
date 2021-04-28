@@ -38,3 +38,6 @@ https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-s
 https://docs.aws.amazon.com/glue/latest/dg/add-job-streaming.html
 
 https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
+
+https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
+
