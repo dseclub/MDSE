@@ -4,13 +4,15 @@ AWS Glue is serverless - a fully managed ETL (extract, transform, and load) serv
 
 AWS Glue consists of a central metadata repository known as the AWS Glue Data Catalog, an ETL engine that automatically generates Python or Scala code, and a flexible scheduler that handles dependency resolution, job monitoring, and retries.
  
+ **Glue Data Catalog** is a central repository to store structural and operational metadata for all your data assets. For a given data set, you can store its table definition, physical location, add business relevant attributes, as well as track how this data has changed over time. AWS Glue provides a number of ways to populate metadata into the AWS Glue Data Catalog. AWS Glue Data Catalog is Apache Hive Metastore compatible. 
+ 
 **Glue Crawler**  You can use a crawler to populate the AWS Glue Data Catalog with tables. It automatically discover new data, extracts schema definitions. It detects schema changes and version tables. It can also detect Hive style partitions on Amazon S3.
  
 **Glue Connection** Connections are used by crawlers and jobs in AWS Glue to access certain types of data stores. A connection contains the properties that are needed to access your data store.
 
 **Glue Classifier** A classifier reads the data in a data store. If it recognizes the format of the data, it generates a schema. The classifier also returns a certainty number to indicate how certain the format recognition was. AWS Glue provides a set of built-in classifiers, but you can also create custom classifiers.
 
-**Glue Data Catalog** is a central repository to store structural and operational metadata for all your data assets. For a given data set, you can store its table definition, physical location, add business relevant attributes, as well as track how this data has changed over time. AWS Glue provides a number of ways to populate metadata into the AWS Glue Data Catalog. AWS Glue Data Catalog is Apache Hive Metastore compatible. 
+
 
 **Glue streaming** extract, transform, and load (ETL) jobs that run continuously, consume data from streaming sources like Amazon Kinesis Data Streams, Apache Kafka, and Amazon Managed Streaming for Apache Kafka (Amazon MSK). 
 
@@ -34,3 +36,5 @@ https://github.com/awsdocs/aws-glue-developer-guide/tree/master/doc_source
 https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-schema-detection-and-evolution/
 
 https://docs.aws.amazon.com/glue/latest/dg/add-job-streaming.html
+
+https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using-a-container/
