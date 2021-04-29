@@ -27,6 +27,14 @@ AWS Glue DataBrew is built for users who need to clean and normalize data for an
 
 **AWS Glue Studio** is a visual interface for AWS Glue that makes it easy for extract-transform-and-load (ETL) developers to author, run, and monitor AWS Glue ETL jobs. 
 
+**AWS Glue Elastic Views** makes it easy to build materialized views that combine and replicate data across multiple data stores without you having to write custom code.
+
+With AWS Glue Elastic Views, you can use familiar Structured Query Language (SQL) to quickly create a virtual table—a materialized view—from multiple different source data stores. AWS Glue Elastic Views copies data from each source data store and creates a replica in a target data store. AWS Glue Elastic Views continuously monitors for changes to data in your source data stores and provides updates to the materialized views in your target data stores automatically, ensuring data accessed through the materialized view is always up-to-date.
+
+
+
+
+
 ## Resources
 
 https://docs.aws.amazon.com/glue/latest/dg/getting-started.html
