@@ -49,3 +49,4 @@ https://aws.amazon.com/blogs/big-data/developing-aws-glue-etl-jobs-locally-using
 
 https://aws.amazon.com/blogs/big-data/building-an-aws-glue-etl-pipeline-locally-without-an-aws-account/
 
+https://partiql.org/
