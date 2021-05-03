@@ -1,6 +1,7 @@
 # AWS Cloudformation
 
-
+AWS CloudFormation helps providing a repeatable and reliable mechanism to create complete solutions that can be deployed into any AWS account.
+Use JSON or YAML to describe what AWS resources you want to create and configure.
 
 
 **AWSTemplateFormatVersion** 'version date' (optional) # version of the CloudFormation template. Only accepted value is '2010-09-09'
@@ -33,8 +34,6 @@ Use the Fn::Ref function to dynamically assign parameter values to a resource pr
 Tag an instance with Fn::Join function.
 Add a tag to the instance using Fn::Sub function.
 
-Intrinsic functions can only be used in certain parts of a template. You can use intrinsic functions in resource properties, outputs, metadata attributes, and update policy attributes.
-
 Fn::GetAtt intrinsic function
 
 **User Data**
@@ -49,44 +48,6 @@ The helper scripts come pre-installed on Amazon Linux and can be updated periodi
 
 **Nested Stack**
 
-The root stack (which is also a parent stack for the first level stacks). This root stack will contain all the other stacks.
-The VPC stack. This contains a simple VPC template which the EC2 instance will be placed into.
-The IAM instance role stack. This contains the IAM instance role template decoupled form your EC2 template.
-The EC2 stack. This contains the EC2 instance you have defined in your previous CloudFormation template.
-
-
-**Layered stacks**
-Layered stacks are a different method of managing common or re-usable components in CloudFormation. The nested stack option results in child stacks that can only be referenced by the parent stack. With Layered stacks the same referencing is possible but also references can be made from multiple stacks. You are not limited to a single parent.
-
-The VPC stack. This contains the same simple VPC template used in the previous lab but with Export added to the Outputs.
-The IAM instance role stack. This contains the same IAM instance role used in the previous lab but with Export added to the Outputs.
-The EC2 stack. This contains the EC2 instance you have defined in previous labs but will make use of the Fn::ImportValue function.
-
-
-Layered stacks allow you to create resources that can be used again and again in multiple stacks.
-All the stack needs to know is the Export name used. They allow the separation of roles and responsibilities.
-For example, a network team could create and supply an approved VPC design as a template.
-You deploy it as a stack and then just reference the Exports as needed. Similarly, a security team could do the same for IAM roles or EC2 security groups.
-
-
-**Package and deploy**
-to package, validate and deploy CloudFormation templates with the AWS CLI.
-
-Identify when packaging a template is required
-Package a template using aws cloudformation package command
-Validate a CloudFormation template using aws cloudformation validate-template command
-Deploy a template using the aws cloudformation deploy command
-
-with aws cloudformation package you can refer to the local files directly.
-https://docs.aws.amazon.com/cli/latest/reference/cloudformation/package.html
-
-
-
-
-
-
-
-
 
 ## Resources
 
@@ -97,8 +58,5 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-
 https://github.com/awslabs/aws-cloudformation-templates/
 
 
-https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html
-
-https://github.com/aws-samples/cfn101-workshop/
 
 ## Books
