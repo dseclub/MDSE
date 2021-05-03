@@ -1,7 +1,7 @@
 # Snowflake
 
 
-Snowflake is a cloud data platform that’s provided as a fully-managed service, it is integrated platform delivered as-a-service. Multi-cluster, shared data, centralized, scale-out storage.
+Snowflake is a cloud data platform that’s provided as a fully-managed service, delivered as-a-service. Multi-cluster, shared data, centralized, scale-out storage.
 
 Snowflake platform includes storage, compute, and cloud services layers that are physically separated but logically integrated.
 
@@ -19,3 +19,5 @@ https://www.snowflake.com/
 https://www.snowflake.com/education-and-training/
 
 https://www.guru99.com/star-snowflake-data-warehousing.html
+
+https://docs.snowflake.com/en/user-guide/warehouses.html
