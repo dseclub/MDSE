@@ -36,6 +36,8 @@ Add a tag to the instance using Fn::Sub function.
 
 Fn::GetAtt intrinsic function
 
+Fn::ImportValue function
+
 **User Data**
 You can use AWS CloudFormation to automatically install, configure, and start applications on Amazon EC2 instances. Doing so enables you to easily replicate deployments and update existing installations without connecting directly to the instance, which can save you a lot of time and effort.
 Deploy an Apache Web server with a simple PHP application via UserData property.  Bootstrapped an EC2 instance.
@@ -46,8 +48,6 @@ CloudFormation provides helper scripts. These helper scripts make CloudFormation
 
 The helper scripts come pre-installed on Amazon Linux and can be updated periodically by using yum install -y aws-cfn-bootstrap
 
-**Nested Stack**
-
 
 ## Resources
 
@@ -57,6 +57,6 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-
 
 https://github.com/awslabs/aws-cloudformation-templates/
 
-
+https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/intrinsic-function-reference.html
 
 ## Books
