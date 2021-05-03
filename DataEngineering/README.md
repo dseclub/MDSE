@@ -11,12 +11,9 @@
 
 ## [Building Web Applications and API](BuildingWebApplications)
 
-## [Testing](Testing)
-
-## [Monitoring](Monitoring)
-
 ## [Infrastructure as Code](InfraAsCode)
 
+## [Monitoring](Monitoring)
 
 ## Books
 
