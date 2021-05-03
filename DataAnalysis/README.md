@@ -36,3 +36,7 @@
 ## Data Visualisation with Superset
 
 * [Superset](Superset)
+
+## Data Visualisation with QuickSight
+
+* [Amazon QuickSight](QuickSight)
