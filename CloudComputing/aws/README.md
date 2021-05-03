@@ -29,4 +29,3 @@ https://github.com/open-guides/og-aws
 
 **Learn Amazon SageMaker: A guide to building, training, and deploying machine learning models for developers and data scientists** by Julien Simon
 
-AWS Certified Machine Learning Specialty 2020 Certification Guide 
