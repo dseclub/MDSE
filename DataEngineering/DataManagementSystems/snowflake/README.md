@@ -19,3 +19,5 @@ https://www.snowflake.com/
 https://www.snowflake.com/education-and-training/
 
 https://www.guru99.com/star-snowflake-data-warehousing.html
+
+https://docs.snowflake.com/en/user-guide/warehouses.html
