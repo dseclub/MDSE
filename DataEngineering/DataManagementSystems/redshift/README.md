@@ -5,11 +5,11 @@ Amazon Redshift is a fully managed, fast, petabyte-scale data warehouse service 
 Amazon Redshift costs less than a tenth of most traditional data warehousing solutions and is optimised for datasets ranging from a few hundred gigabytes to petabytes.
 
 
-Redshift Cluster: Redshift uses a cluster of nodes as its core infrastructure component. A cluster usually has one leader node and several compute nodes. In cases where there is only one compute node, there is no additional leader node.
+**Redshift Cluster:** Redshift uses a cluster of nodes as its core infrastructure component. A cluster usually has one leader node and several compute nodes. In cases where there is only one compute node, there is no additional leader node.
 
- Compute Nodes: Each compute node has its own CPU, memory and storage disk. Client applications are oblivious to the existence of compute nodes and never have to deal directly with compute nodes. 
+ **Compute Nodes:** Each compute node has its own CPU, memory and storage disk. Client applications are oblivious to the existence of compute nodes and never have to deal directly with compute nodes. 
  
-Leader Node: The leader node is responsible for all communications with client applications. The leader node also manages the coordination of compute nodes. Query parsing and execution plan development is also the responsibility of the leader node. On receiving a query, the leader node creates the execution plan and assigns the compiled code to compute nodes. A portion of the data is assigned to each compute node. The final aggregation of the results is performed by the leader node.
+**Leader Node:** The leader node is responsible for all communications with client applications. The leader node also manages the coordination of compute nodes. Query parsing and execution plan development is also the responsibility of the leader node. On receiving a query, the leader node creates the execution plan and assigns the compiled code to compute nodes. A portion of the data is assigned to each compute node. The final aggregation of the results is performed by the leader node.
 
  ## Features:
 ### Massively Parallel
