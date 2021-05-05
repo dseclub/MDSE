@@ -21,11 +21,18 @@ Amazon Redshift uses machine learning to deliver high throughout, irrespective o
 ### Fault-Tolerant
 Amazon Redshift has multiple features that enhance the reliability of your data warehouse cluster. Redshift continuously monitors the health of the cluster, and automatically re-replicates data from failed drives and replaces nodes as necessary for fault tolerance.
 
-###Flexible Querying
-Amazon Redshift gives you the flexibility to execute queries within the console or connect SQL client tools, libraries, or Business Intelligence tools you use. Query Editor on the AWS console provides a powerful interface for executing SQL queries on Redshift clusters and viewing the query results and query execution plan (for queries executed on compute nodes) adjacent to your queries.
 
+**AQUA (Advanced Query Accelerator) for Amazon Redshift:** AQUA is a new distributed and hardware-accelerated cache that enables Redshift to run up to 10x faster than other enterprise cloud data warehouses by automatically boosting certain types of queries. AQUA uses high speed solid state storage, field-programmable gate arrays (FPGAs) and AWS Nitro to speed queries that scan, filter, and aggregate large data sets. AQUA is included with the Redshift RA3 instance type at no additional cost.
 
+**Materialized views:** Amazon Redshift materialized views allow you to achieve significantly faster query performance for iterative or predictable analytical workloads such as dashboarding, and queries from Business Intelligence (BI) tools, and Extract, Load, Transform (ELT) data processing jobs. You can use materialized views to easily store and manage pre-computed results of a SELECT statement that may reference one or more tables, including external tables. Subsequent queries referencing the materialized views can run much faster by reusing the pre-computed results. Amazon Redshift can efficiently maintain the materialized views incrementally to continue to provide the low latency performance benefits.
 
+** Flexible Querying:** Amazon Redshift gives you the flexibility to execute queries within the console or connect SQL client tools, libraries, or Business Intelligence tools you use. Query Editor on the AWS console provides a powerful interface for executing SQL queries on Redshift clusters and viewing the query results and query execution plan (for queries executed on compute nodes) adjacent to your queries.
+
+**Federated Query:** With the new federated query capability in Redshift, you can reach into your operational, relational database. 
+Query live data across one or more Amazon RDS and Aurora PostgreSQL and in preview RDS MySQL and Aurora MySQL databases to get instant visibility
+into the end-to-end business operations without requiring data movement.
+
+**Redshift partner console integration (preview):** You can accelerate data onboarding and create valuable business insights in minutes by integrating with select partner solutions in the Redshift console. With these solutions you can bring data from applications like Salesforce, Google Analytics, Facebook Ads, Slack, Jira, Splunk, and Marketo into your Amazon Redshift data warehouse in an efficient and streamlined way. It also enables you to join these disparate datasets and analyze them together to produce actionable insights.
 
 ## Resources
 
