@@ -81,6 +81,8 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 
 **Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition** by Wes McKinney
 
+**High Performance Python, 2nd edition** by Gorelick Micha, Ozsvald Ian
+
 **Expert Python Programming**
 
 **Advanced Python Development** by Matthew Wilkes 
