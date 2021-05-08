@@ -34,6 +34,7 @@ into the end-to-end business operations without requiring data movement.
 
 **Amazon Redshift uses machine learning** to deliver high throughout, irrespective of workloads or concurrent usage. It utilizes sophisticated algorithms to predict incoming query run times and assigns them to the optimal queue for the fastest processing. For instance, queries such as dashboards and reports with high concurrency requirements are routed to an express queue for immediate processing.
 
+**Amazon Redshift Adviser** offers recommendations about how to optimize your Amazon Redshift cluster to increase performance and save on operating costs.
 
 ## Resources
 
