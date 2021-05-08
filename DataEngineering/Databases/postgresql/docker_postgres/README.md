@@ -6,3 +6,5 @@ This project create tables and fill the tables in a Postgres data base. The tabl
 ```sh
 $ docker-compose up
 ```
+
+## Resources
