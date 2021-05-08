@@ -20,6 +20,7 @@ pytest -q test_try.py
 pytest --fixtures   # shows builtin and custom fixtures
  ```
 
+## Resources
 
 https://docs.pytest.org/en/6.2.x/
 
