@@ -58,6 +58,8 @@ https://github.com/awslabs/amazon-redshift-monitoring
 
 https://aws.amazon.com/redshift/features/
 
+https://github.com/awsdocs/amazon-redshift-management-guide/tree/master/doc_source
+
 https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift/
 
 
