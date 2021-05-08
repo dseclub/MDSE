@@ -10,6 +10,7 @@
   - [Getting and loading data with Python](#data-acquisition)
   - [Python Development](#python-development)
   - [Python Resources](#python-resources)
+  - [Testing](testing)
   - [R](#r)
   - [JS](#js)
   - [Scala](#scala)
