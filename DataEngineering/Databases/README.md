@@ -1,10 +1,10 @@
-# Data Management Systems
+# Databases 
 
 
 [SQLworkbench tools](sqlworkbench)
 
 
-## Databases:
+## Databases relational:
 
 [PostgreSQL](postgresql)
 
@@ -12,7 +12,11 @@
 
 
 
+## Non-relational
+
 [MongoDB](mongodb)
+
+
 
 
 ## Data Warehouses:
