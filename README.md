@@ -34,11 +34,7 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
 
-**Database Design Best Practices** by Edward Pollack
 
-**PostgreSQL Configuration** by Baji Shaik
-
-**MySQL Concurrency** by Jesper Wisborg Krogh
 
 **Foundations for Architecting Data Solutions: Managing Successful Data Projects** by Ted Malaska, Jonathan Seidman 
 
