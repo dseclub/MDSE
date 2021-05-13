@@ -17,5 +17,12 @@
 
 ## Books
 
+
+
 Data Engineering with Apache Spark, Delta Lake and Lakehouse
+
+**Foundations for Architecting Data Solutions: Managing Successful Data Projects** by Ted Malaska, Jonathan Seidman 
+
+**Data Architecture A Primer for the Data Scientist: A Primer for the Data Scientist** by W.H. Inmon, Daniel Linstedt, Mary Levins
+
 
