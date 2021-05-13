@@ -40,3 +40,20 @@
 ## Data Visualisation with QuickSight
 
 * [Amazon QuickSight](QuickSight)
+
+
+## Books
+
+**Storytelling With Data: A Data Visualization Guide for Business Professionals** by Cole Nussbaumer Knaflic
+
+**Data Visualisation: A Handbook for Data Driven Design** by Andy Kirk
+
+
+**Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool** by Tim Costello and Lori Blackshear
+
+**Practical Tableau** By Ryan Sleeper
+
+**Apache Superset Quick Start Guide: Develop Interactive Visualizations by Creating User-friendly Dashboards** by Shashank Shekhar
+
+**Effective Business Intelligence with QuickSight** by Rajesh NadipalliRajesh Nadipalli
+
