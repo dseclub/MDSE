@@ -8,3 +8,7 @@ You can design your pipelines according to a determined logic: decide which acti
 https://github.com/apache/airflow
 
 https://airflow.apache.org/docs/apache-airflow/
+
+## Books
+
+Data Pipelines with Apache Airflow by Bas P. Harenslak and Julian Rutger de Ruiter
