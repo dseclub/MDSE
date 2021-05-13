@@ -30,16 +30,6 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
 
-**Practical DevOps** by Joakim Verona
-
-**Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017** by Nathaniel Felsen
-
-
-
-**Foundations for Architecting Data Solutions: Managing Successful Data Projects** by Ted Malaska, Jonathan Seidman 
-
-**Data Architecture A Primer for the Data Scientist: A Primer for the Data Scientist** by W.H. Inmon, Daniel Linstedt, Mary Levins
-
 **Introducing MLOps: How to Scale Machine Learning in the Enterprise** by Mark Treveil
 
 **Introduction to Machine Learning with Python** by Andreas C. Mueller , Sarah Guido
@@ -67,18 +57,7 @@ by Steven Bird, Ewan Klein, and Edward Loper http://www.nltk.org/book/ http://ww
 **Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry** by Isaiah Hull 
 
 
-**Storytelling With Data: A Data Visualization Guide for Business Professionals** by Cole Nussbaumer Knaflic
 
-**Data Visualisation: A Handbook for Data Driven Design** by Andy Kirk
-
-
-**Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool** by Tim Costello and Lori Blackshear
-
-**Practical Tableau** By Ryan Sleeper
-
-**Apache Superset Quick Start Guide: Develop Interactive Visualizations by Creating User-friendly Dashboards** by Shashank Shekhar
-
-**Effective Business Intelligence with QuickSight** by Rajesh NadipalliRajesh Nadipalli
 
 **Papers:**
 
