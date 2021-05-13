@@ -11,4 +11,4 @@ https://airflow.apache.org/docs/apache-airflow/
 
 ## Books
 
-Data Pipelines with Apache Airflow by Bas P. Harenslak and Julian Rutger de Ruiter
+**Data Pipelines with Apache Airflow** by Bas P. Harenslak and Julian Rutger de Ruiter
