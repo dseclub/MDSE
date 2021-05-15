@@ -30,3 +30,4 @@ https://www.datacamp.com/
 https://cloudacademy.com
 https://www.edx.org/
 http://www.deeplearningbook.org/
+
