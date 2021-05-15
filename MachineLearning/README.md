@@ -1,4 +1,4 @@
-## Machine Learning with Python
+## Machine Learning and Data Science
 
 ## Table of Contents
 
@@ -34,6 +34,9 @@
 
 **Machine Learning for Economics and Finance in TensorFlow 2: Deep Learning Models for Research and Industry** by Isaiah Hull 
 
+
+
+**Docker for Data Science** by Joshua Cook
 
 
 ## Resources
