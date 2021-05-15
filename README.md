@@ -17,8 +17,8 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 
 **Resources**
-https://towardsdatascience.com/machine-learning/home
 https://www.datasciencecentral.com/
+https://towardsdatascience.com/machine-learning/home
 https://www.kdnuggets.com/
 
 
