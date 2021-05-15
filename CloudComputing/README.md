@@ -12,11 +12,3 @@ Cloud computing is an information technology (IT) paradigm that enables ubiquito
 
 
 
-## Reference, Books and Research Papers:
-
-
-
-**Books**
-
-
-**Papers**
