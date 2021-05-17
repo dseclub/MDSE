@@ -147,7 +147,17 @@ sudo ./aws/install
 
 ##  [VIM](https://www.vim.org/)
 
+According to a recent Stack Overflow's survey, [VIM](https://www.vim.org/) text editor is the fourth most popular developer environment and code editor despite it was first released in 1991.
+The reasons for this longevity are many, it's free software with a permissive GNU-like licence (VIM License), is fast, cross-platform and terminal-based.
+
+The distinctive feature compared with other popular editors is its incredibly efficient multimodal editing style that depends entirely on keyboard commands.
+
+It's considered to be rather difficult to master at a professional level. An short introduction about VIM main functionalities can be found at this following link:
+
 [An introduction to Vim Editor (ITTCL second ed.)](https://tessarinseve.pythonanywhere.com/pelican/vim-ittcl-chapter.html)
+
+
+
 
 [Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
 
