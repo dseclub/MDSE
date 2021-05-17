@@ -156,7 +156,7 @@ It's considered to be rather difficult to master at a professional level. An sho
 
 [An introduction to Vim Editor (ITTCL second ed.)](https://tessarinseve.pythonanywhere.com/pelican/vim-ittcl-chapter.html)
 
-
+Plugins are used to introduce additional functionalities and VIM has an incredibly rich ecosystem of many, some really useful, plugins. Plugins can be written in VIM's own programming language, called Vimscript, which can be quite tricky to learn. Another approach is to write plugins with a generic programming language such as python, this requires a VIM instance compiled with the corresponding python support, both python 2 and 3 are supported. Plugins can be installed and updated with a plugin-manager.
 
 
 [Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
