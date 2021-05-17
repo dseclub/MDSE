@@ -31,6 +31,6 @@ https://docs.aws.amazon.com/cdk/api/latest/docs/pipelines-readme.html
 
 https://github.com/aws-samples/cdk-pipelines-demo/tree/python
 
-https://aws.amazon.com/blogs/developer/getting-started-with-the-aws-cloud-development-kit-and-go/
+https://aws.amazon.com/blogs/developer/getting-started-with-the-aws-cloud-development-kit-and-go
 
 
