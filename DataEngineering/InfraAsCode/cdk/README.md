@@ -17,6 +17,73 @@ Use the AWS CDK to define your cloud resources in a familiar programming languag
 Developers can use one of the supported programming languages to define reusable cloud components known as Constructs. You compose these together into Stacks and Apps.
 
 
+## Install nodejs and npm
+```
+sudo apt update
+sudo apt install nodejs npm
+node --version
+npm --version
+```
+
+## Install CDK & Bootstrap CDK  & Update it later
+```
+sudo npm install -g aws-cdk
+cdk --version
+```
+
+## Initialize new project
+
+### Create a directory to hold our project files
+```
+mkdir cdkworkshop && cd cdkworkshop
+```
+### Boostrap CDK
+```
+cdk bootstrap
+```
+
+### Creates a cfn, S3 Bucket to host your templates etc
+```
+cdk init sample-app --language python
+```
+
+```
+python3 -m venv .env
+code
+source .env/bin/activate
+```
+
+### Install python modules in virtual env
+```
+pip install -r requirements.txt
+```
+
+## Validate
+```
+cdk ls
+```
+
+## the changes that are going to be deployed.
+```
+cdk diff
+```
+
+
+## Synthesize the template
+```
+cdk synth              
+```
+
+## Deploy
+```
+cdk deploy
+```
+### Remove the resources created by CDK
+```
+cdk destroy
+```
+
+
 
 
 ## Resources
