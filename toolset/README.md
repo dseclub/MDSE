@@ -165,7 +165,9 @@ Some of the most widely appreciated are listed below:
 * [YCM](https://github.com/ycm-core/YouCompleteMe) the code-completion engine.
 * [startify](https://github.com/mhinz/vim-startify) a start screen.
 
+It's always recommendable to use the latest stable release (VIM 8.2 at the time of writing). 
 
+Many program developers prefer to use VIM inside a [Tmux](https://en.wikipedia.org/wiki/Tmux) session which allows efficient management of several concurrent terminals.
 
 
 [Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
