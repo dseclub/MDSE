@@ -88,7 +88,7 @@ cdk destroy
 ```
 cdk metadata
 cdk context
-cdk doc
+cdk docs or cdk doc
 cdk help
 ```
 
