@@ -58,18 +58,18 @@ source .env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Validate
+## Validate & list all stacks in the app
 ```
 cdk ls
 ```
 
-## the changes that are going to be deployed.
+## Compare deployed stack with current state
 ```
 cdk diff
 ```
 
 
-## Synthesize the template
+## Synthesize the cfn template
 ```
 cdk synth              
 ```
