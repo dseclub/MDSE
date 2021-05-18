@@ -106,6 +106,8 @@ https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html
 
 https://github.com/aws/aws-cdk
 
+https://github.com/aws-samples/aws-cdk-examples/tree/master/python
+
 https://cdkworkshop.com/30-python.html
 
 https://docs.aws.amazon.com/cdk/api/latest/docs/pipelines-readme.html
