@@ -37,9 +37,10 @@ cdk --version
 ```
 mkdir cdkworkshop && cd cdkworkshop
 ```
-### Boostrap CDK
+### Deploy the CDK Toolkit stack 
 ```
 cdk bootstrap
+cdk bootstrap --profile dev
 ```
 
 ### Creates a cfn, S3 Bucket to host your templates etc
@@ -83,6 +84,19 @@ cdk deploy
 cdk destroy
 ```
 
+
+```
+cdk metadata
+cdk context
+cdk doc
+cdk help
+```
+
+
+### Check the cdk for potential problems
+```
+cdk doctor
+```
 
 
 
