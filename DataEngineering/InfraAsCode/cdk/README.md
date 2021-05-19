@@ -38,19 +38,21 @@ cdk --version
 mkdir cdkworkshop && cd cdkworkshop
 ```
 ### Deploy the CDK Toolkit stack 
+### Creates a cfn, S3 Bucket to host the cfn templates
 ```
 cdk bootstrap
 cdk bootstrap --profile dev
 ```
 
-### Creates a cfn, S3 Bucket to host your templates etc
+### create a new python cdk project:
+
 ```
-cdk init sample-app --language python
+cdk init app --language python
 ```
 
 ```
 python3 -m venv .env
-code
+code .
 source .env/bin/activate
 ```
 
@@ -98,11 +100,12 @@ cdk help
 cdk doctor
 ```
 
+[Automatic infrastructure diagrams for AWS CDK](https://github.com/pistazie/cdk-dia)
 
 
 ## Resources
 
-https://docs.aws.amazon.com/cdk/latest/guide/getting_started.html
+https://docs.aws.amazon.com/cdk/latest/guide/home.html
 
 https://github.com/aws/aws-cdk
 
