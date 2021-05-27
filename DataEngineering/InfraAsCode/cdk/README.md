@@ -111,12 +111,18 @@ https://github.com/aws/aws-cdk
 
 https://github.com/aws-samples/aws-cdk-examples/tree/master/python
 
-https://cdkworkshop.com/30-python.html
+
 
 https://docs.aws.amazon.com/cdk/api/latest/docs/pipelines-readme.html
 
 https://github.com/aws-samples/cdk-pipelines-demo/tree/python
 
 https://aws.amazon.com/blogs/developer/getting-started-with-the-aws-cloud-development-kit-and-go
+
+
+
+## Workshops
+
+https://cdkworkshop.com/
 
 
