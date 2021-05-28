@@ -37,23 +37,16 @@ cdk --version
 ```
 mkdir cdkworkshop && cd cdkworkshop
 ```
-### Deploy the CDK Toolkit stack 
-### Creates a cfn, S3 Bucket to host the cfn templates
-```
-cdk bootstrap
-cdk bootstrap --profile dev
-```
 
 ### create a new python cdk project:
-
 ```
 cdk init app --language python
 ```
 
+# Activate virtual environment
 ```
-python3 -m venv .env
-code .
-source .env/bin/activate
+# python3 -m venv .venv
+source .venv/bin/activate
 ```
 
 ### Install python modules in virtual env
@@ -81,6 +74,15 @@ cdk synth
 ```
 cdk deploy
 ```
+
+### Deploy the CDK Toolkit stack. once per region
+### Creates a cfn, S3 Bucket to host the cfn templates
+```
+cdk bootstrap
+cdk bootstrap --profile dev
+```
+
+
 ### Remove the resources created by CDK
 ```
 cdk destroy
