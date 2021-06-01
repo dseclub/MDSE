@@ -16,7 +16,7 @@ AWS CloudFormation enables you to:
 
 - Use a template file to create and delete a collection of resources together as a single unit (a stack).
 
-Use the AWS CDK to define your cloud resources in a familiar programming language. The AWS CDK supports TypeScript, JavaScript, Python, Java, and C#/.Net GO (developer preview).
+Use the AWS CDK to define your cloud resources in a familiar programming language. The AWS CDK supports TypeScript, JavaScript, Python, Java, C#/.Net and GO (in developer preview).
 
 ![AWS CDK Diagram](assets/AWSCDKarchitecture.PNG)
 
