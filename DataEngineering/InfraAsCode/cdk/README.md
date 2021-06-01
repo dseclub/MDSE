@@ -51,6 +51,8 @@ https://cdk.dev/
 
 https://www.cdkday.com/
 
+https://aws.amazon.com/blogs/devops/cdk-corner-may-2021/
+
 
 ## Workshops
 
