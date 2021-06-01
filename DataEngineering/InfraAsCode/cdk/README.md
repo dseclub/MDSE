@@ -1,6 +1,10 @@
-# AWS Cloud Development Kit (AWS CDK)
+# AWS Cloud Development Kit (CDK)
+
+The AWS Cloud Development Kit (CDK) is an open source tool which allows for a high level of abstraction to be achieved through using a familiar programming language to **define, build, deploy and package cloud infrastructure**.
 
 CDK is a software development framework for defining cloud infrastructure in code and provisioning it through AWS CloudFormation.
+
+AWS CloudFormation is a service that helps you model and set up (provision) your Amazon Web Services resources.  
 
 AWS CloudFormation enables you to:
 
@@ -12,95 +16,10 @@ AWS CloudFormation enables you to:
 
 - Use a template file to create and delete a collection of resources together as a single unit (a stack).
 
-Use the AWS CDK to define your cloud resources in a familiar programming language. The AWS CDK supports TypeScript, JavaScript, Python, Java, and C#/.Net.
+Use the AWS CDK to define your cloud resources in a familiar programming language. The AWS CDK supports TypeScript, JavaScript, Python, Java, and C#/.Net GO (preview).
 
 Developers can use one of the supported programming languages to define reusable cloud components known as Constructs. You compose these together into Stacks and Apps.
 
-
-## Install nodejs and npm
-```
-sudo apt update
-sudo apt install nodejs npm
-node --version
-npm --version
-```
-
-## Install CDK & Bootstrap CDK  & Update it later
-```
-sudo npm install -g aws-cdk
-cdk --version
-```
-
-## Initialize new project
-
-### Create a directory to hold our project files
-```
-mkdir cdkworkshop && cd cdkworkshop
-```
-
-### create a new python cdk project:
-```
-cdk init app --language python
-```
-
-# Activate virtual environment
-```
-# python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### Install python modules in virtual env
-```
-pip install -r requirements.txt
-```
-
-## Validate & list all stacks in the app
-```
-cdk ls
-```
-
-## Compare deployed stack with current state
-```
-cdk diff
-```
-
-
-## Synthesize the cfn template
-```
-cdk synth              
-```
-
-## Deploy
-```
-cdk deploy
-```
-
-### Deploy the CDK Toolkit stack. once per region
-### Creates a cfn, S3 Bucket to host the cfn templates
-```
-cdk bootstrap
-cdk bootstrap --profile dev
-```
-
-
-### Remove the resources created by CDK
-```
-cdk destroy
-```
-
-
-```
-cdk metadata
-cdk context
-cdk docs or cdk doc
-cdk help
-```
-
-
-### Check the cdk for potential problems
-```
-cdk doctor
-```
 
 [Automatic infrastructure diagrams for AWS CDK](https://github.com/pistazie/cdk-dia)
 
