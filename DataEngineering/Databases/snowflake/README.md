@@ -1,7 +1,7 @@
 # Snowflake
 
 
-Snowflake is a cloud data platform that’s provided as a fully-managed service, delivered as-a-service. Multi-cluster, shared data, centralized, scale-out storage.
+Snowflake is a cloud data platform that’s provided as a fully-managed service, delivered as-a-service, secure & governed access to data. Multi-cluster, shared data, centralized, scale-out storage.
 
 Snowflake platform includes storage, compute, and cloud services layers that are physically separated but logically integrated.
 
@@ -14,10 +14,12 @@ Snowflake’s architecture has three layers that scale independently of one anot
 **Query processing layer:** The query processing layer handles query execution. Snowflake processes queries using “virtual warehouses.” Each virtual warehouse is an MPP compute cluster made up of multiple compute nodes and each virtual warehouse is an independent compute cluster. As a result, each virtual warehouse operates independently and has no impact on the performance of the other virtual warehouses.
 
 
-https://www.snowflake.com/
+https://www.snowflake.com/cloud-data-platform/
 
 https://www.snowflake.com/education-and-training/
 
 https://www.guru99.com/star-snowflake-data-warehousing.html
 
 https://docs.snowflake.com/en/user-guide/warehouses.html
+
+https://quickstarts.snowflake.com/
