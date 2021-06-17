@@ -23,3 +23,9 @@ https://www.guru99.com/star-snowflake-data-warehousing.html
 https://docs.snowflake.com/en/user-guide/warehouses.html
 
 https://quickstarts.snowflake.com/
+
+
+
+https://github.com/snowflakedb/spark-snowflake
+
+https://github.com/snowflakedb/gosnowflake
