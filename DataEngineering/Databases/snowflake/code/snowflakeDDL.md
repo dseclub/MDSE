@@ -89,7 +89,7 @@ drop view demo_db.public.myview;
 drop stage if exists mystage;
 drop file format if exists parquet_format;
 ```
-## TRUNCATE
+## truncate
 ```
 -- remove all records from a table, including all memory spaces allocated for the records are removed
 
