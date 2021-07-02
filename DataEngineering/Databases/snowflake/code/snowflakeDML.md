@@ -81,11 +81,10 @@ having acct_bal > 1280000;
 
 #  Insert, Delete & Update Operations
 ```
-/*
     * INSERT – is used to insert data into a table.
     * UPDATE – is used to update existing data within a table.
     * DELETE – is used to delete records from a table.
-*/
+
 
 create or replace table A(id number,
                name varchar(20));
@@ -98,3 +97,4 @@ insert into A values(1,'Aman'),
                     (2,'Bhavesh'),
                     (3,'Carolyn'),
                     (5,'David');
+```
