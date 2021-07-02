@@ -98,3 +98,46 @@ insert into A values(1,'Aman'),
                     (3,'Carolyn'),
                     (5,'David');
 ```
+
+##LEFT JOIN
+```
+select A.*, B.salary
+from A left join B
+on A.id = B.id;
+```
+##  RIGHT JOIN
+```
+select B.*, A.name from A right join B
+on B.id = A.id
+order by B.id;
+```
+
+## INNER JOIN
+```
+select B.*, A.name from A inner join B
+on B.id = A.id
+order by B.id;
+```
+
+## FULL JOIN
+```
+select B.*, A.name from A full join B
+on B.id = A.id
+order by B.id;
+```
+
+## SELF JOIN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
