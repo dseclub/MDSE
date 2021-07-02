@@ -99,7 +99,7 @@ insert into A values(1,'Aman'),
                     (5,'David');
 ```
 
-##LEFT JOIN
+## LEFT JOIN
 ```
 select A.*, B.salary
 from A left join B
