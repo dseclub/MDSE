@@ -127,9 +127,13 @@ order by B.id;
 ```
 
 ## SELF JOIN
-
-
-
+```
+SELECT e.employee_id, e.manager_id
+FROM
+    employee e,employee m
+where e.manager_id = m.employee_id 
+    and e.empl_join_date < m.empl_join_date;
+```
 
 
 
