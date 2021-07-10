@@ -3,7 +3,7 @@
 
 **SQL Workbench**  /J is a free, DBMS-independent, cross-platform SQL query tool. https://www.sql-workbench.eu/
 
-**pgAdmin 4** v5 https://www.pgadmin.org/
+**pgAdmin 4** v5 https://www.pgadmin.org/ is part of PostgreSQL install.
 
 **MySQL workbench** https://dev.mysql.com/doc/workbench/en/wb-migration-database-postgresql.html
 
