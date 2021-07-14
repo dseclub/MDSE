@@ -1,16 +1,14 @@
 # SQL workbench tools
 
+[**SQL Workbench**](https://www.sql-workbench.eu)  It is a free, DBMS-independent, cross-platform SQL query tool. 
 
-**SQL Workbench**  /J is a free, DBMS-independent, cross-platform SQL query tool. https://www.sql-workbench.eu/
+[**pgAdmin 4**](https://www.pgadmin.org)  v5  is part of PostgreSQL install.
 
-**pgAdmin 4** v5 https://www.pgadmin.org/ is part of PostgreSQL install.
+[**DBeaver Community**](https://dbeaver.io)  21.1    Enterprise Edition 21.1 is paid. 14 days free
 
-**DBeaver Community** https://dbeaver.io/  21.1    Enterprise Edition 21.1 is paid.
+[**DbVisualizer**](https://www.dbvis.com/features) Pro 21 days free
 
-**MySQL workbench** https://dev.mysql.com/doc/workbench/en/wb-migration-database-postgresql.html
-
-[**DbVisualizer**](https://www.dbvis.com/features)
-
+[**MySQL workbench**](https://dev.mysql.com/doc/workbench/en/wb-migration-database-postgresql.html)
 
 ## Resources
 
