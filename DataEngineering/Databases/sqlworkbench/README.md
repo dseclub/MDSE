@@ -9,6 +9,8 @@
 
 **MySQL workbench** https://dev.mysql.com/doc/workbench/en/wb-migration-database-postgresql.html
 
+[**DbVisualizer**] (https://www.dbvis.com/features)
+
 
 ## Resources
 
