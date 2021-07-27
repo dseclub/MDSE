@@ -55,3 +55,12 @@ VARIABLE_NAME= variable_value	Create a new variable
 Unset	Remove a variable
 export Variable=value	To set value of an environment variable
 ```
+```
+ls-l	to show file type and access permission
+r	read permission
+w	write permission
+x	execute permission
+-=	no permission
+Chown user	For changing the ownership of a file/directory
+Chown user:group filename	change the user as well as group for a file or directory
+```
