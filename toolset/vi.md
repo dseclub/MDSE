@@ -1,6 +1,9 @@
 
 # VI Editing Commands
-Command	Description
+```
+Command    	Description
+```
+```
 i	Insert at cursor (goes into insert mode)
 a	Write after cursor (goes into insert mode)
 A	Write at the end of line (goes into insert mode)
@@ -21,3 +24,4 @@ R	Overwrite characters from cursor onward
 s	Substitute one character under cursor continue to insert
 S	Substitute entire line and begin to insert at the beginning of the line
 ~	Change case of individual character
+```
