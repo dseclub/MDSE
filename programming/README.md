@@ -89,3 +89,15 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 **Advanced Python Development** by Matthew Wilkes 
 
 ## Scala
+
+
+## Go 
+
+Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. Go is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency. 
+
+https://go.dev/
+
+https://miek.nl/go/
+
+https://www.calhoun.io/guide-to-go/
+
