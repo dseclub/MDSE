@@ -100,3 +100,5 @@ https://miek.nl/go/
 
 https://www.calhoun.io/guide-to-go/
 
+https://github.com/avelino/awesome-go
+
