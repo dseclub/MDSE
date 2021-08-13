@@ -9,6 +9,8 @@ https://www.terraform.io/
 
 https://learn.hashicorp.com/terraform
 
+https://learn.hashicorp.com/tutorials/terraform/cdktf-build-go
+
 
 ## Books
 
