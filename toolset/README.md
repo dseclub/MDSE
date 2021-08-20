@@ -147,27 +147,21 @@ sudo ./aws/install
 
 ##  [VIM](https://www.vim.org/)
 
-According to a recent Stack Overflow's survey, [VIM](https://www.vim.org/) text editor is the fourth most popular developer environment and code editor despite it was first released in 1991.
-The reasons for this longevity are many, it's free software with a permissive GNU-like licence (VIM License), is fast, cross-platform and terminal-based.
+[VIM](https://www.vim.org/) text editor is still a rather popular code editor despite it was first released in 1991. The reasons for this longevity are many: it's free software with a permissive GNU-like license (VIM License), fast, cross-platform, and terminal-based.
 
-The distinctive feature compared with other popular editors is its incredibly efficient multimodal editing style that depends entirely on keyboard commands.
+The distinctive feature compared with other editors is its incredibly efficient multimodal editing style. It's considered to be rather difficult to master at a professional level. A short introduction about VIM can be found at this link:
 
-It's considered to be rather difficult to master at a professional level. An short introduction about VIM main functionalities can be found at this following link:
+[An introduction to Vim Editor](http://archive.flossmanuals.net/command-line/vim.html)
 
-[An introduction to Vim Editor (ITTCL second ed.)](https://tessarinseve.pythonanywhere.com/pelican/vim-ittcl-chapter.html)
-
-Plugins are used to introduce additional functionalities and VIM has an incredibly rich ecosystem of many, some really useful, plugins. Plugins can be written in VIM's own programming language, called Vimscript, which can be quite tricky to learn. Another approach is to write plugins with a generic programming language such as python, this requires a VIM instance compiled with the corresponding python support, both python 2 and 3 are supported. Plugins can be installed and updated with a plugin-manager.
+Plugins are used to introduce additional functionalities and VIM has an incredibly rich ecosystem of free plugins. Plugins can be written in VIM's own programming language, called VimScript, which can be quite tricky to learn. Another approach is to write plugins with a generic programming language such as Python or Lua (NeoVIM).
 
 Some of the most widely appreciated are listed below:
 
-* [vim - fugitive](https://github.com/tpope/vim-fugitive) a Git wrapper.
-* [nerdtree](https://github.com/preservim/nerdtree) a file explorer.
-* [YCM](https://github.com/ycm-core/YouCompleteMe) the code-completion engine.
-* [startify](https://github.com/mhinz/vim-startify) a start screen.
+* [vim - fugitive](https://github.com/tpope/vim-fugitive), a Git wrapper.
+* [vim.wiki](https://github.com/lervag/wiki.vim), Personal WIKI.
+* [vim-notes](https://github.com/xolox/vim-notes), Easy note taking in Vim
 
-It's always recommendable to use the latest stable release (VIM 8.2 at the time of writing). 
-
-Many program developers prefer to use VIM inside a [Tmux](https://en.wikipedia.org/wiki/Tmux) session which allows efficient management of several concurrent terminals.
+Tmux is a GNU/Linux  terminal multiplexer, it enables a number of terminals to be created, accessed, and controlled from a single screen. It's standard practice to dedicate one TMUX window to VIM and  to create extra windows for the shell and other command-line programs.
 
 
 [Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
