@@ -1,8 +1,8 @@
 # SQL workbench tools
 
-[**SQL Workbench**](https://www.sql-workbench.eu)  It is a free, DBMS-independent, cross-platform SQL query tool.  https://www.sql-workbench.eu/downloads.html
+[**SQL Workbench**](https://www.sql-workbench.eu)  It is a free, DBMS-independent, cross-platform SQL query tool.  
 
-[**pgAdmin 4**](https://www.pgadmin.org)  v5  is part of PostgreSQL install. https://community.codenewbie.org/adiatiayu/upgrading-pgadmin-4-for-postgresql-12-windows-10-3lda
+[**pgAdmin 4**](https://www.pgadmin.org) it's part of PostgreSQL install. https://community.codenewbie.org/adiatiayu/upgrading-pgadmin-4-for-postgresql-12-windows-10-3lda
 
 [**DBeaver Community**](https://dbeaver.io)  21.1    Enterprise Edition 21.1 is paid. 14 days free
 
