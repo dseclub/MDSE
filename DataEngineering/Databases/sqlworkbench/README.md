@@ -1,6 +1,6 @@
 # SQL workbench tools
 
-[**SQL Workbench**](https://www.sql-workbench.eu)  It is a free, DBMS-independent, cross-platform SQL query tool. 
+[**SQL Workbench**](https://www.sql-workbench.eu)  It is a free, DBMS-independent, cross-platform SQL query tool.  https://www.sql-workbench.eu/downloads.html
 
 [**pgAdmin 4**](https://www.pgadmin.org)  v5  is part of PostgreSQL install. https://community.codenewbie.org/adiatiayu/upgrading-pgadmin-4-for-postgresql-12-windows-10-3lda
 
