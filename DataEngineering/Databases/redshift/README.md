@@ -49,7 +49,7 @@ into the end-to-end business operations without requiring data movement.
 
 https://docs.aws.amazon.com/redshift/latest/gsg/getting-started.html
 
-https://docs.aws.amazon.com/redshift/latest/dg/
+https://docs.aws.amazon.com/redshift/latest/dg/c_high_level_system_architecture.html
 
 https://github.com/aws-quickstart/quickstart-amazon-redshift
 

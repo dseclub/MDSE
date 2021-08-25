@@ -3,7 +3,7 @@
 
 ## [Data Pipelines](DataPipelines)
 
-## [Databases SQL NoSQL DW](Databases)
+## [Databases SQL NoSQL DW LH](Databases)
 
 ## [Distributed Systems](DistributedSystems)
 
