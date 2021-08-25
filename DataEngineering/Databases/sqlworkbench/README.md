@@ -4,7 +4,7 @@
 
 ## Installation  https://phoenixnap.com/kb/postgresql-workbench
 
-[**pgAdmin 4**](https://www.pgadmin.org) part of PostgreSQL install. https://community.codenewbie.org/adiatiayu/upgrading-pgadmin-4-for-postgresql-12-windows-10-3lda
+[**pgAdmin 4**](https://www.pgadmin.org) PostgreSQL installation. https://community.codenewbie.org/adiatiayu/upgrading-pgadmin-4-for-postgresql-12-windows-10-3lda
 
 [**DBeaver Community**](https://dbeaver.io)  21.1    Enterprise Edition 21.1 is paid. 14 days free
 
