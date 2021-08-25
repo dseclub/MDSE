@@ -10,7 +10,15 @@
 
 [**MySQL workbench**](https://dev.mysql.com/doc/workbench/en/wb-migration-database-postgresql.html)
 
-## Resources
+
+
+## Instalation
+
+https://phoenixnap.com/kb/postgresql-workbench
+
+
+
+## Info
 
 https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-using-workbench.html
 
