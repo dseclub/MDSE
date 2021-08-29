@@ -8,7 +8,7 @@
 - [Data Visualisation with R](#Data-Visualisation-with-r)
 - [Data Visualisation with Tableau](#Data-Visualisation-with-tableau)
 - [Data Visualisation with Superset](Superset)
-
+- [Data Visualisation with Streamset](Streamset)
 ## Data Analysis 
 
 - [Data Analysis with Python](DataAnalysisPython)
@@ -42,6 +42,11 @@
 * [Amazon QuickSight](QuickSight)
 
 
+## Data Visualisation with Streamlit 
+
+* [Build data apps in Python - Streamlit](https://github.com/streamlit)
+
+
 ## Books
 
 **Storytelling With Data: A Data Visualization Guide for Business Professionals** by Cole Nussbaumer Knaflic
@@ -56,4 +61,7 @@
 **Apache Superset Quick Start Guide: Develop Interactive Visualizations by Creating User-friendly Dashboards** by Shashank Shekhar
 
 **Effective Business Intelligence with QuickSight** by Rajesh NadipalliRajesh Nadipalli
+
+**Getting Started with Streamlit for Data Science** By Tyler Richards
+
 
