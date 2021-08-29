@@ -7,8 +7,8 @@
 - [Data Visualisation with D3](#Data-Visualisation-with-d3)
 - [Data Visualisation with R](#Data-Visualisation-with-r)
 - [Data Visualisation with Tableau](#Data-Visualisation-with-tableau)
-- [Data Visualisation with Superset](Superset)
-- [Data Visualisation with Streamlit](Streamlit)
+- [Data Visualisation with Superset](#Data-Visualisation-with-Superset)
+- [Data Visualisation with Streamlit](#Data-Visualisation-with-Streamlit)
 ## Data Analysis 
 
 - [Data Analysis with Python](DataAnalysisPython)
@@ -44,7 +44,9 @@
 
 ## Data Visualisation with Streamlit 
 
-* [Build data apps in Python - Streamlit](https://github.com/streamlit)
+* [Build data apps in Python - Streamlit](https://github.com/streamlit) [Video](https://www.youtube.com/watch?v=JwSS70SZdyM) 
+
+
 
 
 ## Books
