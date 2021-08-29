@@ -8,6 +8,7 @@
 - [Data Visualisation with R](#Data-Visualisation-with-r)
 - [Data Visualisation with Tableau](#Data-Visualisation-with-tableau)
 - [Data Visualisation with Superset](#Data-Visualisation-with-Superset)
+- [Data Visualisation with QuickSight](#Data-Visualisation-with-QuickSight)
 - [Data Visualisation with Streamlit](#Data-Visualisation-with-Streamlit)
 ## Data Analysis 
 
