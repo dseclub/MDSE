@@ -89,6 +89,16 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 
 ## Scala
 
+Scala is a modern multi-paradigm programming language designed to express common programming patterns in a concise, elegant, and type-safe way. It seamlessly integrates features of object-oriented and functional languages.
+
+https://docs.scala-lang.org/overviews/scala-book/introduction.html
+
+https://github.com/scala/scala
+
+https://github.com/wjlow/intro-to-scala
+
+https://www.tutorialspoint.com/scala/index.htm
+
 
 ## Go 
 
