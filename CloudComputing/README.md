@@ -10,5 +10,6 @@ Cloud computing is an information technology (IT) paradigm that enables ubiquito
 * [Microsoft Azure](azure)
 * [IBM Cloud](ibm)
 
+* [Cloud CRM Salesforce](CRM)
 
 
