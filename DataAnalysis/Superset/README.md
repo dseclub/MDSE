@@ -9,3 +9,8 @@
 
 [Why Apache Superset Is Betting On Apache Echarts](https://www.youtube.com/watch?v=ZLln-FrLRyY)
 
+
+## set up
+
+https://superset.apache.org/docs/installation/installing-superset-using-docker-compose
+
