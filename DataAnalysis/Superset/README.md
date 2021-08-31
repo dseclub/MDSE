@@ -6,3 +6,6 @@
 [How to Contribute](https://preset.io/blog/how-to-contribute-to-superset/)
 
 [Advanced Apache Superset for Data Engineers](https://www.youtube.com/watch?v=Mhai7sVU244&t=1424s)
+
+[Why Apache Superset Is Betting On Apache Echarts](https://www.youtube.com/watch?v=ZLln-FrLRyY)
+
