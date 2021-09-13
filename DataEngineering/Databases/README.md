@@ -16,7 +16,13 @@
 
 [MongoDB](mongodb)
 
-## Time Series databases
+
+### Graph databases
+
+Amazon Neptune
+
+
+### Time Series databases
 
 [Amazon Timestream](TimeStream)
 
