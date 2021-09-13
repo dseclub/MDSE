@@ -46,9 +46,10 @@ This sample application shows how you can create a database and table, populate 
     Provide a csv file to perform data ingestion.
     
     
-    
 ## Solutions
+
+https://www.sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
 
 https://github.com/aws-samples/aws-cloudfront-realtime-monitoring
 
-https://www.sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
+![Architecture](pics/Architecture.PNG)
