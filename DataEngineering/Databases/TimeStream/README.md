@@ -44,3 +44,11 @@ This sample application shows how you can create a database and table, populate 
     UpdateDatabase API will be called if the kmsId is provided. This kmsId should refer to a valid kms key present in your account. If the kmsId is not provided, UpdateDatabase will not be called.
 
     Provide a csv file to perform data ingestion.
+    
+    
+    
+## Solutions
+
+https://github.com/aws-samples/aws-cloudfront-realtime-monitoring
+
+https://www.sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
