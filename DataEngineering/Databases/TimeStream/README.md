@@ -1,17 +1,27 @@
 # Amazon Timestream
 
 [Amazon Timestream](https://aws.amazon.com/timestream/) is a fast, scalable, fully managed, purpose-built time series database that makes it easy to store and
- analyze trillions of time series data points per day.
+ analyze trillions of time series data points per day. It is used majorly for IoT applications and 1000 times faster with 1/10th cost of relational databases. Using its purpose-built query engine, you can query recent data and historical stored data simultaneously. It provides multiple built-in functions to analyze time-series data to find useful insights.
+
+Amazon Timestream features:
+
+* No servers to manage or instances to provision; everything is handled automatically.
+* Cost-effective, pay only for what you ingest, store, and query.
+* Capable of ingesting trillions of events daily with no drop in performance
+* Built-in analytics capability with standard SQL, interpolation, and smoothing functions to identify trends, patterns, and anomalies
+* All the data is encrypted using the AWS key management system (KMS) with customer manages keys (CMK)
 
 
-* [Analyzing time series data with Amazon SageMaker Notebooks](https://github.com/awslabs/amazon-
-* [Writing and Querying with Pandas (AWS Data Wrangler)](https://github.com/awslabs/amazon-timestream-tools/blob/master/integrations/pandas/)
+ [Analyzing time series data with Amazon SageMaker Notebooks](https://github.com/aws/amazon-sagemaker-examples)
+ [Writing and Querying with Pandas (AWS Data Wrangler)](https://github.com/awslabs/amazon-timestream-tools/blob/master/integrations/pandas/)
 
-https://github.com/awslabs/amazon-timestream-tools/tree/master/sample_apps/python
+
 
 https://docs.aws.amazon.com/timestream/latest/developerguide/what-is-timestream.html
 
 # Getting started with Amazon Timestream with Python
+
+https://github.com/awslabs/amazon-timestream-tools/tree/master/sample_apps/python
 
 This sample application shows how you can create a database and table, populate the table with ~126K rows of sample data, and run sample queries to jumpstart your evaluation and/or proof-of-concept applications with Amazon Timestream.
 
@@ -46,9 +56,10 @@ This sample application shows how you can create a database and table, populate 
     Provide a csv file to perform data ingestion.
     
     
-    
 ## Solutions
+
+https://www.sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
 
 https://github.com/aws-samples/aws-cloudfront-realtime-monitoring
 
-https://www.sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
+![Architecture](pics/Architecture.PNG)

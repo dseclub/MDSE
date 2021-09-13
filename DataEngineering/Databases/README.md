@@ -12,9 +12,19 @@
 
 
 
-## Non-relational
+## Non-relational databases
 
 [MongoDB](mongodb)
+
+
+### Graph databases
+
+[Amazon Neptune](Neptune)
+
+
+### Time Series databases
+
+[Amazon Timestream](TimeStream)
 
 
 
