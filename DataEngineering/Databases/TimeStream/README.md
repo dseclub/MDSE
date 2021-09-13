@@ -50,3 +50,5 @@ This sample application shows how you can create a database and table, populate 
 ## Solutions
 
 https://github.com/aws-samples/aws-cloudfront-realtime-monitoring
+
+https://www.sufle.io/blog/data-visualization-with-amazon-timestream-and-grafana
