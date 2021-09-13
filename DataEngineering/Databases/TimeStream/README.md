@@ -1,15 +1,15 @@
 # Amazon Timestream
 
 [Amazon Timestream](https://aws.amazon.com/timestream/) is a fast, scalable, fully managed, purpose-built time series database that makes it easy to store and
- analyze trillions of time series data points per day. It is used majorly for IoT applications 1000 times faster with 1/10th cost of relational databases. Using its purpose-built query engine, you can query recent data and historical stored data simultaneously. It provides multiple built-in functions to analyze time-series data to find useful insights.
+ analyze trillions of time series data points per day. It is used majorly for IoT applications and 1000 times faster with 1/10th cost of relational databases. Using its purpose-built query engine, you can query recent data and historical stored data simultaneously. It provides multiple built-in functions to analyze time-series data to find useful insights.
 
 Amazon Timestream features:
 
-No servers to manage or instances to provision; everything is handled automatically.
-Cost-effective, pay only for what you ingest, store, and query.
-Capable of ingesting trillions of events daily with no drop in performance
-Built-in analytics capability with standard SQL, interpolation, and smoothing functions to identify trends, patterns, and anomalies
-All the data is encrypted using the AWS key management system (KMS) with customer manages keys (CMK)
+* No servers to manage or instances to provision; everything is handled automatically.
+* Cost-effective, pay only for what you ingest, store, and query.
+* Capable of ingesting trillions of events daily with no drop in performance
+* Built-in analytics capability with standard SQL, interpolation, and smoothing functions to identify trends, patterns, and anomalies
+* All the data is encrypted using the AWS key management system (KMS) with customer manages keys (CMK)
 
 
 * [Analyzing time series data with Amazon SageMaker Notebooks](https://github.com/awslabs/amazon-
