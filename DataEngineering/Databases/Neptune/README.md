@@ -12,10 +12,12 @@ Amazon Neptune is highly available, with read replicas, point-in-time recovery, 
 
 ## Solutions
 
-![Architecture](pics/Architecture.PNG)
-
 https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl
 
 https://awslabs.github.io/realtime-fraud-detection-with-gnn-on-dgl/en/
 
 An end-to-end solution for real-time fraud detection(leveraging graph database Amazon Neptune) using Amazon SageMaker and Deep Graph Library (DGL) to construct a heterogeneous graph from tabular data and train a Graph Neural Network(GNN) model to detect fraudulent transactions in the IEEE-CIS dataset.
+
+![Architecture](pics/Architecture.PNG)
+
+
