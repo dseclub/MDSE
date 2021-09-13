@@ -12,14 +12,16 @@ Amazon Timestream features:
 * All the data is encrypted using the AWS key management system (KMS) with customer manages keys (CMK)
 
 
-* [Analyzing time series data with Amazon SageMaker Notebooks](https://github.com/awslabs/amazon-
-* [Writing and Querying with Pandas (AWS Data Wrangler)](https://github.com/awslabs/amazon-timestream-tools/blob/master/integrations/pandas/)
+ [Analyzing time series data with Amazon SageMaker Notebooks](https://github.com/aws/amazon-sagemaker-examples)
+ [Writing and Querying with Pandas (AWS Data Wrangler)](https://github.com/awslabs/amazon-timestream-tools/blob/master/integrations/pandas/)
 
-https://github.com/awslabs/amazon-timestream-tools/tree/master/sample_apps/python
+
 
 https://docs.aws.amazon.com/timestream/latest/developerguide/what-is-timestream.html
 
 # Getting started with Amazon Timestream with Python
+
+https://github.com/awslabs/amazon-timestream-tools/tree/master/sample_apps/python
 
 This sample application shows how you can create a database and table, populate the table with ~126K rows of sample data, and run sample queries to jumpstart your evaluation and/or proof-of-concept applications with Amazon Timestream.
 
