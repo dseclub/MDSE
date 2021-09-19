@@ -5,6 +5,7 @@ Amazon Redshift is a fully managed, fast, petabyte-scale data warehouse service 
 Amazon Redshift costs less than a tenth of most traditional data warehousing solutions and is optimized for datasets ranging from a few hundred gigabytes to petabytes.
 
 ![Redshift Architecture](pics/RedshiftArchitecture.PNG)
+![Redshift Architecture](pics/RedshiftArchitecture2.PNG)
 
 **Redshift Cluster:** Redshift uses a cluster of nodes as its core infrastructure component. A cluster usually has one leader node and several compute nodes. In cases where there is only one compute node, there is no additional leader node.
 
@@ -21,11 +22,11 @@ Amazon Redshift has multiple features that enhance the reliability of your data 
 
 
 **AQUA (Advanced Query Accelerator) for Amazon Redshift:** AQUA is a new distributed and hardware-accelerated cache that enables Redshift to run up to 10x faster than other enterprise cloud data warehouses by automatically boosting certain types of queries. AQUA uses high speed solid state storage, field-programmable gate arrays (FPGAs) and AWS Nitro to speed queries that scan, filter, and aggregate large data sets. AQUA is included with the Redshift RA3 instance type at no additional cost.
+![AQUA](pics/AQUA.PNG)
 
-![Materialized Views](pics/MaterializedViews.PNG)
 
 **Materialized views:** Amazon Redshift materialized views allow you to achieve significantly faster query performance for iterative or predictable analytical workloads such as dashboarding, and queries from Business Intelligence (BI) tools, and Extract, Load, Transform (ELT) data processing jobs. You can use materialized views to easily store and manage pre-computed results of a SELECT statement that may reference one or more tables, including external tables. Subsequent queries referencing the materialized views can run much faster by reusing the pre-computed results. Amazon Redshift can efficiently maintain the materialized views incrementally to continue to provide the low latency performance benefits.
-
+![Materialized Views](pics/MaterializedViews.PNG)
 
 **Flexible Querying:** Amazon Redshift gives you the flexibility to execute queries within the console or connect SQL client tools, libraries, or Business Intelligence tools you use. Query Editor on the AWS console provides a powerful interface for executing SQL queries on Redshift clusters and viewing the query results and query execution plan (for queries executed on compute nodes) adjacent to your queries.
 
@@ -40,6 +41,16 @@ into the end-to-end business operations without requiring data movement.
 **Amazon Redshift Advisor** offers recommendations about how to optimize your Amazon Redshift cluster to increase performance and save on operating costs.
 
 ![Amazon Redshift Advisor](pics/RedshiftAdvisor.PNG) ![Automatic Table Optimization](pics/AutomaticTableOptimization.PNG)
+
+
+## Amazon Redshift Data API
+Using Amazon Redshift Data API, you can access Amazon Redshift data with web services–based applications, including AWS Lambda, Amazon SageMaker notebooks, and AWS Cloud9.
+
+
+Amazon Redshift **RSQL** is a command line client for interacting with Amazon Redshift clusters and databases. With Amazon Redshift RSQL, you connect to an Amazon Redshift cluster, describe database objects, query data, and view query results in various output formats.  https://docs.aws.amazon.com/redshift/latest/mgmt/rsql-query-tool.html
+
+https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/
+
 
 ![Redshift Data Distribution](pics/RedshiftDataDistribution.PNG)
 
