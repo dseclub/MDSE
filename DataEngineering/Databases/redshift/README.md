@@ -26,6 +26,7 @@ Amazon Redshift has multiple features that enhance the reliability of your data 
 
 
 **Materialized views:** Amazon Redshift materialized views allow you to achieve significantly faster query performance for iterative or predictable analytical workloads such as dashboarding, and queries from Business Intelligence (BI) tools, and Extract, Load, Transform (ELT) data processing jobs. You can use materialized views to easily store and manage pre-computed results of a SELECT statement that may reference one or more tables, including external tables. Subsequent queries referencing the materialized views can run much faster by reusing the pre-computed results. Amazon Redshift can efficiently maintain the materialized views incrementally to continue to provide the low latency performance benefits.
+
 ![Materialized Views](pics/MaterializedViews.PNG)
 
 **Flexible Querying:** Amazon Redshift gives you the flexibility to execute queries within the console or connect SQL client tools, libraries, or Business Intelligence tools you use. Query Editor on the AWS console provides a powerful interface for executing SQL queries on Redshift clusters and viewing the query results and query execution plan (for queries executed on compute nodes) adjacent to your queries.
@@ -78,3 +79,5 @@ https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-
 ## Books
 
 Amazon Redshift Cookbook
+
+Amazon Redshift A Complete Guide by Gerardus Blokdyk
