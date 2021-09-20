@@ -42,8 +42,14 @@ into the end-to-end business operations without requiring data movement.
 
 **Data Sharing** A secure and easy way to share data across amazon redshift clusters.
 
-## Amazon Redshift Data API
+** Amazon Redshift Data API** 
 Using Amazon Redshift Data API, you can access Amazon Redshift data with web services–based applications, including AWS Lambda, Amazon SageMaker notebooks, and AWS Cloud9.
+
+ The **SUPER data type** is an Amazon Redshift data type that enables the storage of schemaless arrays and structures that contain Amazon Redshift scalars and possibly nested arrays and structures. Use the SUPER data type to store semistructured data or documents as values.
+ 
+ With the SUPER data type and the PartiQL language, Amazon Redshift expands data warehouse capabilities to natively ingest, store, transform, and analyze semi-structured data.
+ 
+ https://docs.aws.amazon.com/redshift/latest/dg/super-overview.html https://aws.amazon.com/blogs/big-data/work-with-semistructured-data-using-amazon-redshift-super/
 
 
 **Redshift partner console integration (preview):** You can accelerate data onboarding and create valuable business insights in minutes by integrating with select partner solutions in the Redshift console. With these solutions you can bring data from applications like Salesforce, Google Analytics, Facebook Ads, Slack, Jira, Splunk, and Marketo into your Amazon Redshift data warehouse in an efficient and streamlined way. It also enables you to join these disparate datasets and analyze them together to produce actionable insights.
