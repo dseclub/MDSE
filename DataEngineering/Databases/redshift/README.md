@@ -31,9 +31,20 @@ Amazon Redshift has multiple features that enhance the reliability of your data 
 
 **Flexible Querying:** Amazon Redshift gives you the flexibility to execute queries within the console or connect SQL client tools, libraries, or Business Intelligence tools you use. Query Editor on the AWS console provides a powerful interface for executing SQL queries on Redshift clusters and viewing the query results and query execution plan (for queries executed on compute nodes) adjacent to your queries.
 
+
+Amazon Redshift **RSQL** is a command line client for interacting with Amazon Redshift clusters and databases. With Amazon Redshift RSQL, you connect to an Amazon Redshift cluster, describe database objects, query data, and view query results in various output formats.  https://docs.aws.amazon.com/redshift/latest/mgmt/rsql-query-tool.html
+
+https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/
+
 **Federated Query:** With the new federated query capability in Redshift, you can reach into your operational, relational database.
 Query live data across one or more Amazon RDS and Aurora PostgreSQL and in preview RDS MySQL and Aurora MySQL databases to get instant visibility
 into the end-to-end business operations without requiring data movement.
+
+**Data Sharing** A secure and easy way to share data across amazon redshift clusters.
+
+## Amazon Redshift Data API
+Using Amazon Redshift Data API, you can access Amazon Redshift data with web services–based applications, including AWS Lambda, Amazon SageMaker notebooks, and AWS Cloud9.
+
 
 **Redshift partner console integration (preview):** You can accelerate data onboarding and create valuable business insights in minutes by integrating with select partner solutions in the Redshift console. With these solutions you can bring data from applications like Salesforce, Google Analytics, Facebook Ads, Slack, Jira, Splunk, and Marketo into your Amazon Redshift data warehouse in an efficient and streamlined way. It also enables you to join these disparate datasets and analyze them together to produce actionable insights.
 
@@ -42,15 +53,6 @@ into the end-to-end business operations without requiring data movement.
 **Amazon Redshift Advisor** offers recommendations about how to optimize your Amazon Redshift cluster to increase performance and save on operating costs.
 
 ![Amazon Redshift Advisor](pics/RedshiftAdvisor.PNG) ![Automatic Table Optimization](pics/AutomaticTableOptimization.PNG)
-
-
-## Amazon Redshift Data API
-Using Amazon Redshift Data API, you can access Amazon Redshift data with web services–based applications, including AWS Lambda, Amazon SageMaker notebooks, and AWS Cloud9.
-
-
-Amazon Redshift **RSQL** is a command line client for interacting with Amazon Redshift clusters and databases. With Amazon Redshift RSQL, you connect to an Amazon Redshift cluster, describe database objects, query data, and view query results in various output formats.  https://docs.aws.amazon.com/redshift/latest/mgmt/rsql-query-tool.html
-
-https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/
 
 
 ![Redshift Data Distribution](pics/RedshiftDataDistribution.PNG)
