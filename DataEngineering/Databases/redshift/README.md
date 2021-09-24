@@ -59,9 +59,6 @@ Using Amazon Redshift Data API, you can access Amazon Redshift data with web ser
 ![Amazon Redshift Advisor](pics/RedshiftAdvisor.PNG) ![Automatic Table Optimization](pics/AutomaticTableOptimization.PNG)
 
 
-![Redshift Data Distribution](pics/RedshiftDataDistribution.PNG)
-
-
 ## Resources
 
 
