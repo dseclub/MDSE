@@ -22,8 +22,6 @@ Amazon Redshift has multiple features that enhance the reliability of your data 
 
 
 **AQUA (Advanced Query Accelerator) for Amazon Redshift:** AQUA is a new distributed and hardware-accelerated cache that enables Redshift to run up to 10x faster than other enterprise cloud data warehouses by automatically boosting certain types of queries. AQUA uses high speed solid state storage, field-programmable gate arrays (FPGAs) and AWS Nitro to speed queries that scan, filter, and aggregate large data sets. AQUA is included with the Redshift RA3 instance type at no additional cost.
-![AQUA](pics/AQUA.PNG)
-
 
 **Materialized views:** Amazon Redshift materialized views allow you to achieve significantly faster query performance for iterative or predictable analytical workloads such as dashboarding, and queries from Business Intelligence (BI) tools, and Extract, Load, Transform (ELT) data processing jobs. You can use materialized views to easily store and manage pre-computed results of a SELECT statement that may reference one or more tables, including external tables. Subsequent queries referencing the materialized views can run much faster by reusing the pre-computed results. Amazon Redshift can efficiently maintain the materialized views incrementally to continue to provide the low latency performance benefits.
 
@@ -59,9 +57,6 @@ Using Amazon Redshift Data API, you can access Amazon Redshift data with web ser
 **Amazon Redshift Advisor** offers recommendations about how to optimize your Amazon Redshift cluster to increase performance and save on operating costs.
 
 ![Amazon Redshift Advisor](pics/RedshiftAdvisor.PNG) ![Automatic Table Optimization](pics/AutomaticTableOptimization.PNG)
-
-
-![Redshift Data Distribution](pics/RedshiftDataDistribution.PNG)
 
 
 ## Resources
