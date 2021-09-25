@@ -2,8 +2,7 @@
 
 ## Introduction
 
-- [AWS Glue ETL](glue)
-- [others ETL](etl)
+- [ETL/ELT](etl)
 - [Apache Airflow](Airflow)
 - [Prefect](prefect)
 - [DBT Data build tool](dbt)
