@@ -8,15 +8,10 @@
 - [DBT Data build tool](dbt)
 - [Data Validation frameworks](datavalidation)
 
-
-
 - [Apache Kafka](kafka)
 
 
-
 ## Resources
-
-
 
 
 ## Books
