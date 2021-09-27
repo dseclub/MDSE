@@ -139,19 +139,19 @@ sudo ./aws/install
 
 ##  [VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
 ```
-- sudo snap install --classic code
+sudo snap install --classic code
 ```
 
 
 ##  [PyCharm](https://www.jetbrains.com/pycharm/)
 ```
 sudo snap install pycharm-community --classic
-#### or
+
 sudo snap install pycharm-professional --classic
 ```
 ##  [Atom](https://atom.io/)
 ```
-- sudo snap install atom --classic 
+sudo snap install atom --classic 
 ```
 
 
