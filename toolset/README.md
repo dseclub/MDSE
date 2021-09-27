@@ -138,12 +138,22 @@ sudo ./aws/install
 ##  Integrated Development Environments (IDE)
 
 ##  [VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
+```
+sudo snap install --classic code
+```
+
 
 ##  [PyCharm](https://www.jetbrains.com/pycharm/)
+```
+sudo snap install pycharm-community --classic
 
-
-
+sudo snap install pycharm-professional --classic
+```
 ##  [Atom](https://atom.io/)
+```
+sudo snap install atom --classic 
+```
+
 
 ##  [VIM](https://www.vim.org/)
 
