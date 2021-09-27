@@ -25,3 +25,26 @@ s	Substitute one character under cursor continue to insert
 S	Substitute entire line and begin to insert at the beginning of the line
 ~	Change case of individual character
 ```
+
+
+Command mode commands
+```
+:g/X/s//x/g	Global Search and replace (X=search object x=replace object)
+:r file	Import a file into the current file
+:20 r file	Import a file into the current file after line 20
+:w	Write out the file to save changes
+:w file	Write the file to named file
+:wq	Save the file exit vi
+:w!	Force save the file
+:q!	Quit vi but don’t save changes
+```
+
+Input mode commands
+```
+a	Insert characters to the right of the cursor
+A	Append characters to the current line
+i	Insert characters to the left of cursor
+I	Insert characters at the beginning of the current line
+o	Add a new line after current line
+O	Insert a new line above the current line
+```
