@@ -9,7 +9,7 @@ https://github.com/apache/airflow
 
 https://airflow.apache.org/docs/apache-airflow/
 
-[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/)
+[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/) [tutorial](https://docs.aws.amazon.com/mwaa/latest/userguide/quick-start.html)
 
 ![MWAA](pics/mwaa.PNG)
 
