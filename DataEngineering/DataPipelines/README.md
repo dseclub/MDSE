@@ -21,3 +21,4 @@
 
 **Azure Data Factory Cookbook: Build and manage ETL and ELT pipelines with Microsoft Azure's serverless data integration service** by Dmitry Anoshin, Dmitry Foshin, Roman Storchak, Xenia Ireton
 
+**Data Pipelines Pocket Reference** by James Densmore.
