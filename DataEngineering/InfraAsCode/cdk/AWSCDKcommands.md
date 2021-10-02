@@ -7,6 +7,14 @@ node --version
 npm --version
 ```
 
+## Install nodejs v 14
+```
+sudo apt update
+curl -sL https://deb.nodesource.com/setup_14.x | sudo bash -
+sudo apt -y install nodejs
+node  -v
+```
+
 ## Install CDK & Bootstrap CDK  & Update it later
 ```
 sudo npm install -g aws-cdk
