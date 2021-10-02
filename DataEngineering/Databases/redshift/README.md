@@ -58,6 +58,11 @@ Using Amazon Redshift Data API, you can access Amazon Redshift data with web ser
 
 ![Amazon Redshift Advisor](pics/RedshiftAdvisor.PNG) ![Automatic Table Optimization](pics/AutomaticTableOptimization.PNG)
 
+## Amazon Redshift Query Editor V2 is a free Web-based Query Authoring Tool for Data Analysts
+
+The query editor v2 is a separate web-based SQL client application that you use to author and run queries on your Amazon Redshift data warehouse. You can visualize your results in charts and collaborate by sharing your queries with others on your team. 
+
+![redshiftqueryeditorv2](pics/redshiftqueryeditorv2.png)
 
 ## Resources
 
