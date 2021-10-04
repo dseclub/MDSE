@@ -17,5 +17,7 @@ https://docs.getdbt.com/reference/dbt-jinja-functions
 https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production
 
 
+## Training
 
+https://courses.getdbt.com/courses/fundamentals
 
