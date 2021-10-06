@@ -11,7 +11,7 @@ With Amazon MWAA, you can **focus on business logic and build workflows** withou
 **setup, patching, upgrades, security, scaling**.
 
 
-
+![MWAADL](pics/mwaadl.png)
 
 ## Resources
 
