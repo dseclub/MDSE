@@ -137,7 +137,7 @@ sudo ./aws/install
 
 ##  Integrated Development Environments (IDE)
 
-##  [VSCode](https://code.visualstudio.com/docs/python/python-tutorial)
+##  [VSCode](https://code.visualstudio.com/docs/python/python-tutorial) [Setup](https://code.visualstudio.com/docs/setup/linux)
 ```
 sudo snap install --classic code
 ```
@@ -172,8 +172,15 @@ Some of the most widely appreciated are listed below:
 * [vim-notes](https://github.com/xolox/vim-notes), Easy note taking in Vim
 
 Tmux is a GNU/Linux  terminal multiplexer, it enables a number of terminals to be created, accessed, and controlled from a single screen. It's standard practice to dedicate one TMUX window to VIM and  to create extra windows for the shell and other command-line programs.
+```
+sudo apt install snapd
+sudo snap install nvim --classic
+sudo npm install -g pyright
 
+export PATH=”<NEOVIM_LOCATION>/bin:$PATH”
 
+nvim awesome-file.txt
+```
 [Jupyter notebook, JupyterHub, JupyterLab](http://jupyter.org/)
 
 ## [Nbviewer](https://nbviewer.jupyter.org/)
