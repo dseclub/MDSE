@@ -21,6 +21,12 @@ sudo npm install -g aws-cdk
 cdk --version
 ```
 
+## update CDK 
+```
+sudo npm i -g aws-cdk --force
+```
+
+
 ## Initialize new project
 
 ### Create a directory to hold our project files
