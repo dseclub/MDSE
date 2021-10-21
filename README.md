@@ -14,7 +14,7 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 * [Data Engineering](DataEngineering)
 * [Machine Learning](MachineLearning)
 * [Deep Learning & NLP](DeepLearningNLP)
-
+* [Data Architecture](DataArchitecture)
 
 **Resources**
 https://www.datasciencecentral.com/
