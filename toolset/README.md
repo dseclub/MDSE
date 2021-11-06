@@ -75,10 +75,17 @@ The package manager reduces the time to get software installed, saving hours of 
     choco install 7zip.install --pre
     ```
 
+
+    ```
+    choco install dbeaver
+    ```
+
     ```
     choco install awscli
     choco install saml2aws
     ```
+
+
 
 
 ## Installing additional tools
@@ -90,6 +97,13 @@ Install any of the below that would be useful for your project, or find addition
 - [choco://GoogleChrome](choco://GoogleChrome)
 - [choco://wsl](choco://wsl)
 - [choco://wsl-ubuntu-1804](choco://wsl-ubuntu-1804)
+
+
+
+    ```
+    python -m virtualenv .
+    .\scripts\activate
+    ```
 
 
 ## MacOS Development
@@ -235,7 +249,26 @@ $ python3 -m venv env38
 $ source env38/bin/activate
 
 $ pip install -r requirements.txt
+
+$ pip install notebook
+
 ```
+
+## Windows venv
+```
+python3 -m venv /path/to/new/virtual/environment
+
+c:\>python -m venv c:\path\to\myenv
+
+C:\> <venv>\Scripts\activate.bat
+
+
+
+python -m virtualenv .
+.\scripts\activate
+
+```
+
 
 
 ## [Conda](https://www.anaconda.com/download/) [Docs](https://conda.io/docs/)
