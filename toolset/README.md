@@ -69,7 +69,8 @@ The package manager reduces the time to get software installed, saving hours of 
 
     ```
     choco install -y choco-protocol-support chocolateygui sudo terraform vscode
-    choco install -y python3
+    #choco install -y python3
+    choco install python --version=3.9.5
     choco install -y docker-desktop
     
     choco install 7zip.install --pre
