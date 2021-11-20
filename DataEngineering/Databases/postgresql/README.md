@@ -15,5 +15,7 @@ https://www.postgresqltutorial.com/postgresql-sample-database/
 
 ## Books
 
+**Learn PostgreSQL** by By Luca Ferrari , Enrico Pirozzi
+
 **PostgreSQL Configuration** by Baji Shaik
 
