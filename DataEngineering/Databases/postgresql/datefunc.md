@@ -64,3 +64,5 @@ select o_orderdate, new_orderdate_year, datediff(year, o_orderdate, new_orderdat
         o_orderdate, new_orderdate_quarter, datediff(quarter, o_orderdate, new_orderdate_quarter) as diff_quarter
 from test_dates limit 10;
 ```
+
+Data Lake Architecture for Medical Data Processing Company 
