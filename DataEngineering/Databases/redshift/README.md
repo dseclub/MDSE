@@ -43,6 +43,15 @@ into the end-to-end business operations without requiring data movement.
 **Amazon Redshift Data API** 
 Using Amazon Redshift Data API, you can access Amazon Redshift data with web services–based applications, including AWS Lambda, Amazon SageMaker notebooks, and AWS Cloud9.
 
+
+Amazon Redshift has launched support for the VARBYTE data type. VARBYTE is a variable size data type for storing and representing variable-length binary strings.
+
+Amazon Redshift can now support variable length binary data for use with core Amazon Redshift features, SQL UDFs and SQL DDL for creating VARBYTE columns in tables. VARBYTE(n) syntax gives you the flexibility to specify the size (‘n’). The default for n is 64KB and max is 1MB. VARBYTE values are displayed/printed as Hex values to ensure all binary bytes are printable.
+
+Amazon Redshift support for GEOGRAPHY data type is now available for spatial analytics. GEOGRAPHY data type is used in queries requiring higher precision results for spatial data with geographic features that can be represented with a spheroid model of the Earth and referenced using latitude and longitude as spatial coordinate system.
+
+Amazon Redshift can now support two major spatial data types - GEOMETRY and GEOGRAPHY to perform the vast majority of spatial analytics, opening-up support for many more third-party spatial and GIS applications. In addition to the GEOGRAPHY data type, Amazon Redshift also released support for new spatial functions such as: ST_Intersection, ST_Centroid, ST_Transform, and ST_IsRing
+
  The **SUPER data type** is an Amazon Redshift data type that enables the storage of schemaless arrays and structures that contain Amazon Redshift scalars and possibly nested arrays and structures. Use the SUPER data type to store semistructured data or documents as values.  https://www.youtube.com/watch?v=Dqrdhpc95vI
  
  With the SUPER data type and the PartiQL language, Amazon Redshift expands data warehouse capabilities to natively ingest, store, transform, and analyze semi-structured data.
