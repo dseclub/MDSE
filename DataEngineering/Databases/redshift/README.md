@@ -64,6 +64,14 @@ The query editor v2 is a separate web-based SQL client application that you use 
 
 ![redshiftqueryeditorv2](pics/redshiftqueryeditorv2.png)
 
+Preview of SQL Notebooks support in Amazon Redshift Query Editor V2
+
+https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/
+
+Preview Amazon Redshift now provides a serverless option to run and scale analytics without having to provision and manage data warehouse clusters. 
+
+Amazon Redshift Serverless automatically provisions and intelligently scales data warehouse capacity to deliver best-in-class performance for all your analytics.
+
 ## Resources
 
 
