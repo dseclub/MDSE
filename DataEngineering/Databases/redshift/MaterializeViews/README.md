@@ -15,3 +15,11 @@ You can use materialized views to easily store and manage pre-computed results o
 https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-overview.html
 
 https://docs.aws.amazon.com/redshift/latest/dg/materialized-view-create-sql-command.html
+
+Automated Materialized View (AutoMV) for Amazon Redshift helps lower query latency for repeatable workloads like dashboard queries minimizing the effort for manually creating and managing materialized views. 
+
+Materialized Views are a powerful tool for improving query performance but they require careful workload monitoring and analysis to determine where they may provide the best returns. This may take hours to days and require performance tuning knowledge. Additionally, increasing and changing workloads results in continual monitoring by users.
+
+AutoMV in Amazon Redshift continually monitors the workload using machine learning to decide whether a new materialized view will be beneficial.
+
+AutoMV balances the cost of creating and keeping materialized views up-to-date vs expected improvements to query latency. The system also monitors previously created AutoMVs and drops them when they are no longer beneficial to the workload. This avoids expending resources to keep unused AutoMVs fresh.
