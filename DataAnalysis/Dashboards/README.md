@@ -3,7 +3,7 @@
  * [Tableau](https://www.tableau.com/learn)
 
 
- * [PowerBI](https://powerbi.microsoft.com/en-ie/)
+ * [PowerBI](PowerBI)
 
  * [Superset](Superset)
 
