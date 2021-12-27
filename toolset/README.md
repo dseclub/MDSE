@@ -249,10 +249,10 @@ $ sudo apt-get install python3-venv
 $ python3 -m venv env38
 $ source env38/bin/activate
 
+$ pip install jupyter
+# pip install notebook
+
 $ pip install -r requirements.txt
-
-$ pip install notebook
-
 ```
 
 ## Windows venv
