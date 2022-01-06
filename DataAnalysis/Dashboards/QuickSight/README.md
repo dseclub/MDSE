@@ -11,7 +11,7 @@ QuickSight is serverless and can automatically scale to tens of thousands of use
 It is also the first BI service to offer pay-per-session pricing, where you only pay when your users access their dashboards or reports, making it cost-effective for large scale deployments.
 
 ## Workshops
-https://learnquicksight.workshop.aws/en/
+https://catalog.us-east-1.prod.workshops.aws/v2/workshops/cd8ebba2-2ef8-431a-8f72-ca7f6761713d/en-US     # https://learnquicksight.workshop.aws/en/
 
 ## Resources
 
