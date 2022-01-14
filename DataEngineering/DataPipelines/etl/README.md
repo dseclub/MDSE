@@ -2,7 +2,7 @@
 
 Integrations tools
 
-- [Airbite](https://airbyte.io/)
+- [Airbyte](airbyte)
 - [AWS Glue ETL](glue)
 
 
