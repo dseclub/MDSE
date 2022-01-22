@@ -5,6 +5,7 @@
 - [ETL/ELT](etl)
 - [Apache Airflow](Airflow)
 - [Prefect](prefect)
+- [Dagster](Dagster)
 - [DBT Data build tool](dbt)
 - [Data Validation frameworks](datavalidation)
 
