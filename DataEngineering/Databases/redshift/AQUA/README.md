@@ -19,3 +19,7 @@ AQUA is available on clusters with ra3.16xlarge and ra3.4xlarge node types.
 AQUA for Redshift Jun 15, 2021 https://www.youtube.com/watch?v=EOwg8NwZKkI&t=2202s
 
 https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift/
+
+https://aws.amazon.com/blogs/big-data/use-aqua-with-amazon-redshift-ra3-xlplus-nodes
+
+https://docs.aws.amazon.com/redshift/latest/mgmt/managing-cluster-aqua-understanding.html  
