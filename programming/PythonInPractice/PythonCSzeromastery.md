@@ -1,7 +1,6 @@
-Python ZTM Cheatsheet 💻🚀
+Python 
 ===============================
 
-We created this Python 3 Cheat Sheet initially for students of [Complete Python Developer in 2020: Zero to Mastery](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery) but we're now sharing it with any Python beginners to help them learn and remember common Python syntax and with intermediate and advanced Python developers as a handy reference. If you'd like to download a PDF version of this Python Cheat Sheet, you can get it [here](https://zerotomastery.io/courses/python/cheatsheet/?utm_source=github&utm_medium=ztm-python-cheat-sheet)!
 
 Contents
 --------
@@ -16,7 +15,7 @@ Contents
 
 Numbers
 ----
-**python's 2 main types for Numbers is int and float (or integers and floating point numbers)**
+**python's main types for Numbers is int and float (or integers and floating point numbers)**
 ```python
 type(1)   # int 
 type(-10) # int
@@ -4583,10 +4582,5 @@ if __name__ == '__main__':
 ```
 
 
-Index
------
-* **Only available in the [PDF](https://transactions.sendowl.com/products/78175486/4422834F/view).**
-* **Ctrl+F / ⌘F is usually sufficient.**
-* **Searching `'#<title>'` on a [webpage](https://gto76.github.io/python-cheatsheet/) will limit the search to the titles.**
 
 
