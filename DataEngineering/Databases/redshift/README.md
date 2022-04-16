@@ -100,6 +100,8 @@ https://github.com/awsdocs/amazon-redshift-management-guide/tree/master/doc_sour
 
 https://aws.amazon.com/blogs/aws/new-aqua-advanced-query-accelerator-for-amazon-redshift/
 
+https://aws.amazon.com/blogs/big-data/query-and-visualize-amazon-redshift-operational-metrics-using-the-amazon-redshift-plugin-for-grafana/
+
 
 ## Books
 
