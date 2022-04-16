@@ -75,7 +75,6 @@ Kaggle 5 day Data Cleaning Challenge - Lab_Notebooks_Templates.zip
 
 ## Python Resources
 
-## Reference Books and Research Papers:
 
 **Data Wrangling with Python** by Jacqueline Kazil, Katharine Jarmul
 
