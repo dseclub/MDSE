@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "web_name": "Player 1",
+    "element_type": 1,
+    "team": 1,
+    "now_cost": 50
+  },
+  {
+    "id": 2,
+    "web_name": "Player 2",
+    "element_type": 1,
+    "team": 1,
+    "now_cost": 50
+  },
+  {
+    "id": 3,
+    "web_name": "Player 3",
+    "element_type": 2,
+    "team": 1,
+    "now_cost": 50
+  },
+  {
+    "id": 4,
+    "web_name": "Player 4",
+    "element_type": 2,
+    "team": 2,
+    "now_cost": 50
+  },
+  {
+    "id": 5,
+    "web_name": "Player 5",
+    "element_type": 2,
+    "team": 2,
+    "now_cost": 50
+  },
+  {
+    "id": 6,
+    "web_name": "Player 6",
+    "element_type": 2,
+    "team": 2,
+    "now_cost": 50
+  },
+  {
+    "id": 7,
+    "web_name": "Player 7",
+    "element_type": 2,
+    "team": 3,
+    "now_cost": 50
+  },
+  {
+    "id": 8,
+    "web_name": "Player 8",
+    "element_type": 3,
+    "team": 3,
+    "now_cost": 50
+  },
+  {
+    "id": 9,
+    "web_name": "Player 9",
+    "element_type": 3,
+    "team": 3,
+    "now_cost": 50
+  },
+  {
+    "id": 10,
+    "web_name": "Player 10",
+    "element_type": 3,
+    "team": 4,
+    "now_cost": 50
+  },
+  {
+    "id": 11,
+    "web_name": "Player 11",
+    "element_type": 3,
+    "team": 4,
+    "now_cost": 50
+  },
+  {
+    "id": 12,
+    "web_name": "Player 12",
+    "element_type": 3,
+    "team": 4,
+    "now_cost": 50
+  },
+  {
+    "id": 13,
+    "web_name": "Player 13",
+    "element_type": 4,
+    "team": 5,
+    "now_cost": 50
+  },
+  {
+    "id": 14,
+    "web_name": "Player 14",
+    "element_type": 4,
+    "team": 5,
+    "now_cost": 50
+  },
+  {
+    "id": 15,
+    "web_name": "Player 15",
+    "element_type": 4,
+    "team": 5,
+    "now_cost": 50
+  }
+]
