@@ -63,8 +63,12 @@
 
 **Apache Superset Quick Start Guide: Develop Interactive Visualizations by Creating User-friendly Dashboards** by Shashank Shekhar
 
+**Pro Power BI Dashboard Creation** by Adam Aspin
+
 **Effective Business Intelligence with QuickSight** by Rajesh NadipalliRajesh Nadipalli
 
 **Getting Started with Streamlit for Data Science** By Tyler Richards
+
+
 
 
