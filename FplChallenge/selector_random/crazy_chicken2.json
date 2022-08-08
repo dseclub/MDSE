@@ -1,0 +1,161 @@
+{
+  "squad": {
+    "goalkeepers": [
+      {
+        "id": 254,
+        "web_name": "Ward",
+        "pos": 1,
+        "team": 10,
+        "now_cost": 40
+      },
+      {
+        "id": 281,
+        "web_name": "Alisson",
+        "pos": 1,
+        "team": 12,
+        "now_cost": 55
+      }
+    ],
+    "defenders": [
+      {
+        "id": 209,
+        "web_name": "Tosin",
+        "pos": 2,
+        "team": 9,
+        "now_cost": 45
+      },
+      {
+        "id": 295,
+        "web_name": "N.Williams",
+        "pos": 2,
+        "team": 16,
+        "now_cost": 40
+      },
+      {
+        "id": 445,
+        "web_name": "Emerson Royal",
+        "pos": 2,
+        "team": 18,
+        "now_cost": 50
+      },
+      {
+        "id": 363,
+        "web_name": "Manquillo",
+        "pos": 2,
+        "team": 15,
+        "now_cost": 45
+      },
+      {
+        "id": 180,
+        "web_name": "Keane",
+        "pos": 2,
+        "team": 8,
+        "now_cost": 45
+      }
+    ],
+    "midfielders": [
+      {
+        "id": 469,
+        "web_name": "Fornals",
+        "pos": 3,
+        "team": 19,
+        "now_cost": 55
+      },
+      {
+        "id": 214,
+        "web_name": "Cavaleiro",
+        "pos": 3,
+        "team": 9,
+        "now_cost": 50
+      },
+      {
+        "id": 316,
+        "web_name": "Palmer",
+        "pos": 3,
+        "team": 13,
+        "now_cost": 45
+      },
+      {
+        "id": 344,
+        "web_name": "Elanga",
+        "pos": 3,
+        "team": 14,
+        "now_cost": 50
+      },
+      {
+        "id": 449,
+        "web_name": "White",
+        "pos": 3,
+        "team": 18,
+        "now_cost": 45
+      }
+    ],
+    "forwarders": [
+      {
+        "id": 80,
+        "web_name": "Toney",
+        "pos": 4,
+        "team": 4,
+        "now_cost": 70
+      },
+      {
+        "id": 168,
+        "web_name": "Mateta",
+        "pos": 4,
+        "team": 7,
+        "now_cost": 55
+      },
+      {
+        "id": 40,
+        "web_name": "Watkins",
+        "pos": 4,
+        "team": 2,
+        "now_cost": 75
+      }
+    ]
+  },
+  "bench": [
+    {
+      "id": 281,
+      "web_name": "Alisson",
+      "pos": 1,
+      "team": 12,
+      "now_cost": 55
+    },
+    {
+      "id": 295,
+      "web_name": "N.Williams",
+      "pos": 2,
+      "team": 16,
+      "now_cost": 40
+    },
+    {
+      "id": 469,
+      "web_name": "Fornals",
+      "pos": 3,
+      "team": 19,
+      "now_cost": 55
+    },
+    {
+      "id": 80,
+      "web_name": "Toney",
+      "pos": 4,
+      "team": 4,
+      "now_cost": 70
+    }
+  ],
+  "captain": {
+    "id": 449,
+    "web_name": "White",
+    "pos": 3,
+    "team": 18,
+    "now_cost": 45
+  },
+  "vice_captain": {
+    "id": 363,
+    "web_name": "Manquillo",
+    "pos": 2,
+    "team": 15,
+    "now_cost": 45
+  }
+}
