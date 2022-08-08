@@ -6,8 +6,7 @@ Join DSEC FPL Leqgue, build data pipeline, analyze, visualize and story-tell the
 
 You can join any time. It won't affect your chances for data engineering chalanges. 
 
-Join by **August 4th** to have realistic chances of winning the league.
-First squad selection is important. It has significant impact on the outcome. There is only 13 days left to make it.
+Auto-join by visiting [this link](https://fantasy.premierleague.com/leagues/auto-join/szunr4).
 
 The rules of FPL game are [here](https://fantasy.premierleague.com/help/rules)
 

@@ -1,0 +1,161 @@
+{
+  "squad": {
+    "goalkeepers": [
+      {
+        "id": 307,
+        "web_name": "Ederson",
+        "pos": 1,
+        "team": 13,
+        "now_cost": 55
+      },
+      {
+        "id": 15,
+        "web_name": "Ramsdale",
+        "pos": 1,
+        "team": 1,
+        "now_cost": 50
+      }
+    ],
+    "defenders": [
+      {
+        "id": 489,
+        "web_name": "Toti",
+        "pos": 2,
+        "team": 20,
+        "now_cost": 40
+      },
+      {
+        "id": 352,
+        "web_name": "Clark",
+        "pos": 2,
+        "team": 15,
+        "now_cost": 45
+      },
+      {
+        "id": 178,
+        "web_name": "Coleman",
+        "pos": 2,
+        "team": 8,
+        "now_cost": 45
+      },
+      {
+        "id": 96,
+        "web_name": "Goode",
+        "pos": 2,
+        "team": 4,
+        "now_cost": 40
+      },
+      {
+        "id": 192,
+        "web_name": "Holgate",
+        "pos": 2,
+        "team": 8,
+        "now_cost": 45
+      }
+    ],
+    "midfielders": [
+      {
+        "id": 534,
+        "web_name": "McNeil",
+        "pos": 3,
+        "team": 8,
+        "now_cost": 55
+      },
+      {
+        "id": 412,
+        "web_name": "Tella",
+        "pos": 3,
+        "team": 17,
+        "now_cost": 50
+      },
+      {
+        "id": 101,
+        "web_name": "Lallana",
+        "pos": 3,
+        "team": 5,
+        "now_cost": 50
+      },
+      {
+        "id": 335,
+        "web_name": "Rashford",
+        "pos": 3,
+        "team": 14,
+        "now_cost": 65
+      },
+      {
+        "id": 55,
+        "web_name": "Philogene-Bidace",
+        "pos": 3,
+        "team": 2,
+        "now_cost": 45
+      }
+    ],
+    "forwarders": [
+      {
+        "id": 191,
+        "web_name": "Calvert-Lewin",
+        "pos": 4,
+        "team": 8,
+        "now_cost": 80
+      },
+      {
+        "id": 345,
+        "web_name": "Martial",
+        "pos": 4,
+        "team": 14,
+        "now_cost": 70
+      },
+      {
+        "id": 391,
+        "web_name": "Surridge",
+        "pos": 4,
+        "team": 16,
+        "now_cost": 50
+      }
+    ]
+  },
+  "bench": [
+    {
+      "id": 307,
+      "web_name": "Ederson",
+      "pos": 1,
+      "team": 13,
+      "now_cost": 55
+    },
+    {
+      "id": 178,
+      "web_name": "Coleman",
+      "pos": 2,
+      "team": 8,
+      "now_cost": 45
+    },
+    {
+      "id": 335,
+      "web_name": "Rashford",
+      "pos": 3,
+      "team": 14,
+      "now_cost": 65
+    },
+    {
+      "id": 391,
+      "web_name": "Surridge",
+      "pos": 4,
+      "team": 16,
+      "now_cost": 50
+    }
+  ],
+  "captain": {
+    "id": 412,
+    "web_name": "Tella",
+    "pos": 3,
+    "team": 17,
+    "now_cost": 50
+  },
+  "vice_captain": {
+    "id": 55,
+    "web_name": "Philogene-Bidace",
+    "pos": 3,
+    "team": 2,
+    "now_cost": 45
+  }
+}

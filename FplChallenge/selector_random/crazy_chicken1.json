@@ -1,0 +1,162 @@
+{
+  "squad": {
+    "goalkeepers": [
+      {
+        "id": 113,
+        "web_name": "S\u00e1nchez",
+        "pos": 1,
+        "team": 5,
+        "now_cost": 45
+      },
+      {
+        "id": 426,
+        "web_name": "Forster",
+        "pos": 1,
+        "team": 18,
+        "now_cost": 40
+      }
+    ],
+    "defenders": [
+      {
+        "id": 165,
+        "web_name": "Andersen",
+        "pos": 2,
+        "team": 7,
+        "now_cost": 45
+      },
+      {
+        "id": 498,
+        "web_name": "R.Williams",
+        "pos": 2,
+        "team": 12,
+        "now_cost": 40
+      },
+      {
+        "id": 351,
+        "web_name": "Fern\u00e1ndez",
+        "pos": 2,
+        "team": 15,
+        "now_cost": 45
+      },
+      {
+        "id": 494,
+        "web_name": "Mosquera",
+        "pos": 2,
+        "team": 20,
+        "now_cost": 40
+      },
+      {
+        "id": 487,
+        "web_name": "A\u00eft-Nouri",
+        "pos": 2,
+        "team": 20,
+        "now_cost": 45
+      }
+    ],
+    "midfielders": [
+      {
+        "id": 373,
+        "web_name": "Willock",
+        "pos": 3,
+        "team": 15,
+        "now_cost": 50
+      },
+      {
+        "id": 485,
+        "web_name": "Cundle",
+        "pos": 3,
+        "team": 20,
+        "now_cost": 45
+      },
+      {
+        "id": 18,
+        "web_name": "Sambi",
+        "pos": 3,
+        "team": 1,
+        "now_cost": 45
+      },
+      {
+        "id": 317,
+        "web_name": "McAtee",
+        "pos": 3,
+        "team": 13,
+        "now_cost": 45
+      },
+      {
+        "id": 431,
+        "web_name": "Lucas Moura",
+        "pos": 3,
+        "team": 18,
+        "now_cost": 60
+      }
+    ],
+    "forwarders": [
+      {
+        "id": 227,
+        "web_name": "Bamford",
+        "pos": 4,
+        "team": 11,
+        "now_cost": 75
+      },
+      {
+        "id": 54,
+        "web_name": "Archer",
+        "pos": 4,
+        "team": 2,
+        "now_cost": 45
+      },
+      {
+        "id": 528,
+        "web_name": "Mara",
+        "pos": 4,
+        "team": 17,
+        "now_cost": 55
+      }
+    ]
+  },
+  "bench": [
+    {
+      "id": 426,
+      "web_name": "Forster",
+      "pos": 1,
+      "team": 18,
+      "now_cost": 40
+    },
+    {
+      "id": 487,
+      "web_name": "A\u00eft-Nouri",
+      "pos": 2,
+      "team": 20,
+      "now_cost": 45
+    },
+    {
+      "id": 431,
+      "web_name": "Lucas Moura",
+      "pos": 3,
+      "team": 18,
+      "now_cost": 60
+    },
+    {
+      "id": 528,
+      "web_name": "Mara",
+      "pos": 4,
+      "team": 17,
+      "now_cost": 55
+    }
+  ],
+  "captain": {
+    "id": 373,
+    "web_name": "Willock",
+    "pos": 3,
+    "team": 15,
+    "now_cost": 50
+  },
+  "vice_captain": {
+    "id": 485,
+    "web_name": "Cundle",
+    "pos": 3,
+    "team": 20,
+    "now_cost": 45
+  }
+}
+

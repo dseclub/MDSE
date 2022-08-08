@@ -1,0 +1,161 @@
+{
+  "squad": {
+    "goalkeepers": [
+      {
+        "id": 152,
+        "web_name": "Guaita",
+        "pos": 1,
+        "team": 7,
+        "now_cost": 45
+      },
+      {
+        "id": 426,
+        "web_name": "Forster",
+        "pos": 1,
+        "team": 18,
+        "now_cost": 40
+      }
+    ],
+    "defenders": [
+      {
+        "id": 141,
+        "web_name": "Chalobah",
+        "pos": 2,
+        "team": 6,
+        "now_cost": 50
+      },
+      {
+        "id": 520,
+        "web_name": "Koulibaly",
+        "pos": 2,
+        "team": 6,
+        "now_cost": 55
+      },
+      {
+        "id": 477,
+        "web_name": "Jonny",
+        "pos": 2,
+        "team": 20,
+        "now_cost": 45
+      },
+      {
+        "id": 463,
+        "web_name": "Coufal",
+        "pos": 2,
+        "team": 19,
+        "now_cost": 45
+      },
+      {
+        "id": 5,
+        "web_name": "Holding",
+        "pos": 2,
+        "team": 1,
+        "now_cost": 45
+      }
+    ],
+    "midfielders": [
+      {
+        "id": 490,
+        "web_name": "Chiquinho",
+        "pos": 3,
+        "team": 20,
+        "now_cost": 50
+      },
+      {
+        "id": 13,
+        "web_name": "Saka",
+        "pos": 3,
+        "team": 1,
+        "now_cost": 80
+      },
+      {
+        "id": 185,
+        "web_name": "A.Doucour\u00e9",
+        "pos": 3,
+        "team": 8,
+        "now_cost": 55
+      },
+      {
+        "id": 383,
+        "web_name": "Caf\u00fa",
+        "pos": 3,
+        "team": 16,
+        "now_cost": 45
+      },
+      {
+        "id": 406,
+        "web_name": "Elyounoussi",
+        "pos": 3,
+        "team": 17,
+        "now_cost": 55
+      }
+    ],
+    "forwarders": [
+      {
+        "id": 262,
+        "web_name": "Iheanacho",
+        "pos": 4,
+        "team": 10,
+        "now_cost": 65
+      },
+      {
+        "id": 66,
+        "web_name": "Solanke",
+        "pos": 4,
+        "team": 3,
+        "now_cost": 60
+      },
+      {
+        "id": 237,
+        "web_name": "Greenwood",
+        "pos": 4,
+        "team": 11,
+        "now_cost": 45
+      }
+    ]
+  },
+  "bench": [
+    {
+      "id": 152,
+      "web_name": "Guaita",
+      "pos": 1,
+      "team": 7,
+      "now_cost": 45
+    },
+    {
+      "id": 463,
+      "web_name": "Coufal",
+      "pos": 2,
+      "team": 19,
+      "now_cost": 45
+    },
+    {
+      "id": 490,
+      "web_name": "Chiquinho",
+      "pos": 3,
+      "team": 20,
+      "now_cost": 50
+    },
+    {
+      "id": 262,
+      "web_name": "Iheanacho",
+      "pos": 4,
+      "team": 10,
+      "now_cost": 65
+    }
+  ],
+  "captain": {
+    "id": 406,
+    "web_name": "Elyounoussi",
+    "pos": 3,
+    "team": 17,
+    "now_cost": 55
+  },
+  "vice_captain": {
+    "id": 477,
+    "web_name": "Jonny",
+    "pos": 2,
+    "team": 20,
+    "now_cost": 45
+  }
+}

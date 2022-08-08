@@ -1,0 +1,161 @@
+{
+  "squad": {
+    "goalkeepers": [
+      {
+        "id": 353,
+        "web_name": "Darlow",
+        "pos": 1,
+        "team": 15,
+        "now_cost": 40
+      },
+      {
+        "id": 254,
+        "web_name": "Ward",
+        "pos": 1,
+        "team": 10,
+        "now_cost": 40
+      }
+    ],
+    "defenders": [
+      {
+        "id": 76,
+        "web_name": "Zemura",
+        "pos": 2,
+        "team": 3,
+        "now_cost": 45
+      },
+      {
+        "id": 498,
+        "web_name": "R.Williams",
+        "pos": 2,
+        "team": 12,
+        "now_cost": 40
+      },
+      {
+        "id": 295,
+        "web_name": "N.Williams",
+        "pos": 2,
+        "team": 16,
+        "now_cost": 40
+      },
+      {
+        "id": 208,
+        "web_name": "Kongolo",
+        "pos": 2,
+        "team": 9,
+        "now_cost": 40
+      },
+      {
+        "id": 463,
+        "web_name": "Coufal",
+        "pos": 2,
+        "team": 19,
+        "now_cost": 45
+      }
+    ],
+    "midfielders": [
+      {
+        "id": 534,
+        "web_name": "McNeil",
+        "pos": 3,
+        "team": 8,
+        "now_cost": 55
+      },
+      {
+        "id": 4,
+        "web_name": "Elneny",
+        "pos": 3,
+        "team": 1,
+        "now_cost": 45
+      },
+      {
+        "id": 550,
+        "web_name": "Amad",
+        "pos": 3,
+        "team": 14,
+        "now_cost": 45
+      },
+      {
+        "id": 172,
+        "web_name": "Rak-Sakyi",
+        "pos": 3,
+        "team": 7,
+        "now_cost": 45
+      },
+      {
+        "id": 261,
+        "web_name": "Maddison",
+        "pos": 3,
+        "team": 10,
+        "now_cost": 80
+      }
+    ],
+    "forwarders": [
+      {
+        "id": 354,
+        "web_name": "Wood",
+        "pos": 4,
+        "team": 15,
+        "now_cost": 60
+      },
+      {
+        "id": 411,
+        "web_name": "Adams",
+        "pos": 4,
+        "team": 17,
+        "now_cost": 65
+      },
+      {
+        "id": 123,
+        "web_name": "Undav",
+        "pos": 4,
+        "team": 5,
+        "now_cost": 55
+      }
+    ]
+  },
+  "bench": [
+    {
+      "id": 254,
+      "web_name": "Ward",
+      "pos": 1,
+      "team": 10,
+      "now_cost": 40
+    },
+    {
+      "id": 498,
+      "web_name": "R.Williams",
+      "pos": 2,
+      "team": 12,
+      "now_cost": 40
+    },
+    {
+      "id": 4,
+      "web_name": "Elneny",
+      "pos": 3,
+      "team": 1,
+      "now_cost": 45
+    },
+    {
+      "id": 411,
+      "web_name": "Adams",
+      "pos": 4,
+      "team": 17,
+      "now_cost": 65
+    }
+  ],
+  "captain": {
+    "id": 353,
+    "web_name": "Darlow",
+    "pos": 1,
+    "team": 15,
+    "now_cost": 40
+  },
+  "vice_captain": {
+    "id": 172,
+    "web_name": "Rak-Sakyi",
+    "pos": 3,
+    "team": 7,
+    "now_cost": 45
+  }
+}
