@@ -8,6 +8,8 @@ Docker for Data Science by Joshua Cook
 
 Data Wrangling with Python by Jacqueline Kazil, Katharine Jarmul
 
+Designing Data-Intensive Applications by Martin Kleppmann
+
 Practical DevOps by Joakim Verona
 
 Effective DevOps with AWS: Ship faster, scale better, and deliver incredible productivity Paperback – July 31, 2017 by Nathaniel Felsen
@@ -45,5 +47,7 @@ Prepare Your Data for Tableau: A Practical Guide to the Tableau Data Prep Tool b
 Practical Tableau By Ryan Sleeper
 
 Apache Superset Quick Start Guide: Develop Interactive Visualizations by Creating User-friendly Dashboards by Shashank Shekhar
+
+Pro Power BI Dashboard Creation by Adam Aspin
 
 Effective Business Intelligence with QuickSight by Rajesh NadipalliRajesh Nadipalli
