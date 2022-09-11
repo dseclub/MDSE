@@ -79,7 +79,24 @@ Multiple choice: Has one correct response and three incorrect responses (distrac
 Multiple response: Has two or more correct responses out of five or more options.
 
 
-## [AWS Certified Solutions Architect - Associate SAA-C02](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+## [AWS Certified Solutions Architect - Associate SAA-C03](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+Domain 1: Design Secure Architectures 30%
+
+Domain 2: Design Resilient Architectures 26%
+
+Domain 3: Design High-Performing Architectures 24%
+
+Domain 4: Design Cost-Optimized Architectures 20%
+
+https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
+
+https://pages.awscloud.com/DODDSARANEW_newodtysaa.html
+
+
+
+
+## AWS Certified Solutions Architect - Associate SAA-C02
 
 He performs a architect role of designing available, cost-efficient, fault-tolerant, and scalable distributed systems on AWS.
 
