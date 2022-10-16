@@ -7,3 +7,12 @@
 ## Data Governance
 
 ## Data Strategy
+
+## Diagrams
+
+## Examples
+
+## References
+
+
+## Books
