@@ -16,3 +16,6 @@
 
 
 ## Books
+
+Salesforce Architect's Handbook: A Comprehensive End-to-End Solutions Guide  by Dipanker Jyoti 
+
