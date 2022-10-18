@@ -7,6 +7,21 @@ dbt allows you to develop, document, test, deploy data in the data warehouse.
 dbt is the T in ELT. Organize, cleanse, denormalize, filter, rename, and pre-aggregate the raw data in your warehouse so that it's ready for analysis.
 
 
+Developing dbt models
+
+Debugging data modeling errors
+
+Monitoring data pipelines
+
+Implementing dbt tests
+
+Deploying dbt jobs
+
+Creating and maintaining dbt documentation
+
+Promoting code through version control
+
+Establishing environments in data warehouse for dbt
 
 
 
