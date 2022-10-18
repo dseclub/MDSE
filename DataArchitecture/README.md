@@ -22,3 +22,5 @@ Solutions Architect's Handbook: Kick-start your solutions architect career by le
 Salesforce Architect's Handbook: A Comprehensive End-to-End Solutions Guide  by Dipanker Jyoti 
 
 Agile Data Warehousing for the Enterprise: A Guide for Solution Architects and Project Leaders by Ralph Hughes  
+
+Data Lakehouse Architecture In Action: Architect data the right way to create a robust and scalable data architecture
