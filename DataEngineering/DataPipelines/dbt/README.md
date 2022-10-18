@@ -6,6 +6,10 @@ dbt allows you to develop, document, test, deploy data in the data warehouse.
 
 dbt is the T in ELT. Organize, cleanse, denormalize, filter, rename, and pre-aggregate the raw data in your warehouse so that it's ready for analysis.
 
+
+
+
+
 ## dbt (Data Build Tool)
 ### 1 Quickly and easily provide clean, transformed data ready for analysis:
 dbt enables data analysts to custom-write transformations through SQL SELECT statements. There is no need to write boilerplate code. This makes data transformation accessible for analysts that don’t have extensive experience in other programming languages.
@@ -40,3 +44,7 @@ https://docs.getdbt.com/docs/running-a-dbt-project/running-dbt-in-production
 
 https://courses.getdbt.com/courses/fundamentals
 
+https://courses.getdbt.com/courses/jinja-macros-packages
+
+
+https://www.getdbt.com/certifications/analytics-engineer-certification-exam/ 
