@@ -4,7 +4,7 @@ The Semantic Layer is made up of a combination of open-source and SaaS offerings
 
 the dbt Semantic Layer enables organizations to centrally define business metrics in dbt and then query them from any analytics tool, ensuring that critical definitions such as 'revenue,' 'customer count,' or 'churn rate' are consistent in every data application the organization is using. 14 partner integrations were also announced at the keynote, including integrations developed by Atlan, Deepnote, Hex, Mode, Thoughtspot.
 
-![Git Diagram](pics/semantic_layer.PNG)
+![Git Diagram](pics/semantic_layer.png)
 
 The dbt Semantic Layer will provide benefits:
 
