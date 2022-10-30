@@ -14,6 +14,9 @@
 
 ## References
 
+https://martinfowler.com/articles/data-mesh-principles.html
+
+
 
 ## Books
 
