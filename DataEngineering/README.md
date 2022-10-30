@@ -21,6 +21,10 @@
 
 Data Engineering with Apache Spark, Delta Lake and Lakehouse
 
+**Data Engineering with Python** by Paul Crickard
+
+**Designing Data-Intensive Applications** by Martin Kleppmann
+
 **Foundations for Architecting Data Solutions: Managing Successful Data Projects** by Ted Malaska, Jonathan Seidman 
 
 **Data Architecture A Primer for the Data Scientist: A Primer for the Data Scientist** by W.H. Inmon, Daniel Linstedt, Mary Levins
