@@ -98,6 +98,7 @@ https://github.com/wjlow/intro-to-scala
 
 https://www.tutorialspoint.com/scala/index.htm
 
+Programming Scala, 3rd Ed by Wampler Dean
 
 ## Go 
 
