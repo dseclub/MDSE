@@ -1,6 +1,6 @@
  # Dashboards
 
- * [Tableau](https://www.tableau.com/learn)
+ * [Tableau](Tableau)
 
 
  * [PowerBI](PowerBI)
