@@ -13,3 +13,7 @@ https://docs.microsoft.com/en-us/power-bi/guidance/star-schema
 [Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F02s9k80,Qlik%20%2B%20QlikView%20%2B%20QlikSense,Power%20BI)
 
 **Pro Power BI Desktop** by Adam Aspin, 3rd ed 2020
+
+https://github.com/gdeckler/LearnPowerBI
+
+https://github.com/NajiElKotob/Awesome-Power-BI
