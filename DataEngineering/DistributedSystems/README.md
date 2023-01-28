@@ -7,12 +7,14 @@
 - [x] Introduction
 - [ ] Spark
 - [ ] Dask
+- [ ] Kafka
 
 s
 
 - [Apache Spark](#spark)
 - [Apache Spark workbook](ApacheSpark)
 - [Dask](#dask)
+- [Apache Kafka](#kafka)
 
 ## Introduction to Big Data
 
