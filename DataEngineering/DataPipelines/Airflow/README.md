@@ -18,3 +18,5 @@ https://airflowsummit.org/
 ## Books
 
 **Data Pipelines with Apache Airflow** by Bas P. Harenslak and Julian Rutger de Ruiter
+
+**Apache Airflow Fundamentals** by Alfredo Deza
