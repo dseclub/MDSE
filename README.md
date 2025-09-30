@@ -10,11 +10,10 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 * [Programming](programming)
 * [Applied Math Probability Statistics Algorithms](MathProbStatAlgo)
 * [Data Analysis and Visualisation](DataAnalysis)
-* [Cloud Computing](CloudComputing)
 * [Data Engineering](DataEngineering)
 * [Machine Learning](MachineLearning)
 * [Deep Learning & NLP](DeepLearningNLP)
-* [Data Architecture](DataArchitecture)
+
 
 **Resources**
 https://www.datasciencecentral.com/
