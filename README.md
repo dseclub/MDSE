@@ -5,7 +5,7 @@ The Open Source resources in Data Engineering, Cloud Computing, Machine Learning
 
 
 ## Table of contents:
-* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
 * [DSE toolset](toolset)
 * [Programming](programming)
 * [Applied Math Probability Statistics Algorithms](MathProbStatAlgo)
@@ -24,8 +24,9 @@ https://www.kdnuggets.com/
 
 **LearningCourses:**
 https://www.coursera.org/
-https://eu.udacity.com/
+https://udacity.com/
 https://www.datacamp.com/
+https://www.udemy.com/
 https://cloudacademy.com
 https://www.edx.org/
 http://www.deeplearningbook.org/
