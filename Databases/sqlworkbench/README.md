@@ -8,9 +8,9 @@ https://www.amazonaws.cn/en/getting-started/tutorials/create-connect-postgresql-
 
 https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-using-workbench.html
 
-[**pgAdmin 4**](https://www.pgadmin.org) PostgreSQL installation. https://community.codenewbie.org/adiatiayu/upgrading-pgadmin-4-for-postgresql-12-windows-10-3lda
+[**pgAdmin 4**](https://www.pgadmin.org) 
 
-[**DBeaver Community**](https://dbeaver.io)  21.1    Enterprise Edition 21.1 is paid. 14 days free
+[**DBeaver Community**](https://dbeaver.io)   Enterprise Edition is paid. 14 days free. community ed free
 
 [**DbVisualizer**](https://www.dbvis.com/features) Pro 21 days free
 
@@ -19,6 +19,3 @@ https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-using-workbench.html
 
 
 
-## Info
-
-https://dwgeek.com/best-amazon-redshift-query-tools-sql-editors.html/
