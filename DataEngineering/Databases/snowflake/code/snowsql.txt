@@ -1,0 +1,50 @@
+create or replace database sf_tuts;
+select current_database(),current_schema();
+
+create or replace table emp_basic (
+  first_name string ,
+  last_name string ,
+  email string ,
+  streetaddress string ,
+  city string ,
+  start_date date
+  );
+
+create or replace warehouse sf_tuts_wh with
+  warehouse_size='X-SMALL'
+  auto_suspend = 180
+  auto_resume = true
+  initially_suspended=true;
+
+--Upload data
+Stage Files With PUT   windows
+#  a PUT call to stage the sample employee CSV files from local folder temp onto the emp_basic table within the sf_tuts database.
+
+put file://c:\temp\employees0*.csv @sf_tuts.public.%emp_basic;
+
+LIST Staged Files
+list @sf_tuts.public.%emp_basic;
+
+COPY INTO​ Your Table
+copy into emp_basic
+  from @%emp_basic
+  file_format = (type = csv field_optionally_enclosed_by='"')
+  pattern = '.*employees0[1-5].csv.gz'
+  on_error = 'skip_file';
+
+-- Query Data
+
+select * from "SF_TUTS"."PUBLIC"."EMP_BASIC";
+select * from emp_basic;
+select * from emp_basic where first_name = 'Ron';
+select email from emp_basic where email like '%.au';
+
+
+-- Manage and Delete Data
+
+insert into emp_basic values
+  ('Clementine','Adamou','cadamou@sf_tuts.com','10510 Sachs Road','Klenak','2017-9-22') ,
+  ('Marlowe','De Anesy','madamouc@sf_tuts.co.uk','36768 Northfield Plaza','Fangshan','2017-1-26');
+
+drop database if exists sf_tuts;
+drop warehouse if exists sf_tuts_wh;
